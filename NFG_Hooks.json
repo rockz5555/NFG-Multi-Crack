@@ -1,0 +1,47 @@
+{
+  "application": "NFG Multi Crack",
+  "author": "rockz5555@NFG",
+  "version": 1.1,
+  "web": "https://nizwerfreegallery.blogspot.com",
+  "com.lonelycatgames.Xplore": {
+    "totalHooks": 1,
+    "hooks": [
+      {
+        "class": "com.lonelycatgames.Xplore.XploreApp",
+        "method": "j",
+        "parameters": null,
+        "hookType": "MethodReplacement"
+      }
+    ]
+  },
+  "com.mxtech.videoplayer.pro": {
+    "totalHooks": 2,
+    "hooks": [
+      {
+        "class": "atm",
+        "method": "a",
+        "parameters": null,
+        "hookType": "MethodReplacement"
+      },
+      {
+        "class": "atm",
+        "method": "a",
+        "parameters": [
+          "android.content.Context"
+        ],
+        "hookType": "MethodReplacement"
+      }
+    ]
+  },
+  "hotspotshield.android.vpn": {
+    "totalHooks": 1,
+    "hooks": [
+      {
+        "class": "com.anchorfree.eliteapi.data.UserStatus",
+        "method": "isElite",
+        "parameters": null,
+        "hookType": "MethodReplacement"
+      }
+    ]
+  }
+}
