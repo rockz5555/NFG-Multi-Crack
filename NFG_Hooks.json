@@ -9,8 +9,8 @@
       {
         "class": "com.lonelycatgames.Xplore.XploreApp",
         "method": "j",
-        "parameters": null,
-        "hookType": "MethodReplacement"
+        "parameters": [],
+        "hookType": "REPLACE"
       }
     ]
   },
@@ -20,8 +20,8 @@
       {
         "class": "atm",
         "method": "a",
-        "parameters": null,
-        "hookType": "MethodReplacement"
+        "parameters": [],
+        "hookType": "REPLACE"
       },
       {
         "class": "atm",
@@ -29,7 +29,7 @@
         "parameters": [
           "android.content.Context"
         ],
-        "hookType": "MethodReplacement"
+        "hookType": "REPLACE"
       }
     ]
   },
@@ -39,8 +39,8 @@
       {
         "class": "com.anchorfree.eliteapi.data.UserStatus",
         "method": "isElite",
-        "parameters": null,
-        "hookType": "MethodReplacement"
+        "parameters": [],
+        "hookType": "REPLACE"
       }
     ]
   }
