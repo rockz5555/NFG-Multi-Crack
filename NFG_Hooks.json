@@ -4,24 +4,26 @@
   "version": 1.1,
   "web": "https://nizwerfreegallery.blogspot.com",
   "com.lonelycatgames.Xplore": {
-    "totalHooks": 1,
     "hooks": [
       {
         "class": "com.lonelycatgames.Xplore.XploreApp",
         "method": "j",
         "parameters": [],
-        "hookType": "REPLACE"
+        "hookType": "REPLACE",
+        "returnType": "INTEGER",
+        "hookValue": 5
       }
     ]
   },
   "com.mxtech.videoplayer.pro": {
-    "totalHooks": 2,
     "hooks": [
       {
         "class": "atm",
         "method": "a",
         "parameters": [],
-        "hookType": "REPLACE"
+        "hookType": "REPLACE",
+        "returnType": "BOOLEAN",
+        "hookValue": true
       },
       {
         "class": "atm",
@@ -29,18 +31,21 @@
         "parameters": [
           "android.content.Context"
         ],
-        "hookType": "REPLACE"
+        "hookType": "REPLACE",
+        "returnType": "BOOLEAN",
+        "hookValue": true
       }
     ]
   },
   "hotspotshield.android.vpn": {
-    "totalHooks": 1,
     "hooks": [
       {
         "class": "com.anchorfree.eliteapi.data.UserStatus",
         "method": "isElite",
         "parameters": [],
-        "hookType": "REPLACE"
+        "hookType": "REPLACE",
+        "returnType": "BOOLEAN",
+        "hookValue": true
       }
     ]
   }
