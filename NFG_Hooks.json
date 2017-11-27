@@ -76,5 +76,17 @@
         "hookValue": true
       }
     ]
+  },
+  "com.aide": {
+    "hooks": [
+      {
+        "class": "com.aide.ui.e",
+        "method": "FH",
+        "parameters": [],
+        "hookType": "REPLACE",
+        "returnType": "BOOLEAN",
+        "hookValue": true
+      }
+    ]
   }
 }
