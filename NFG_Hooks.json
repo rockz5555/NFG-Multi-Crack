@@ -48,5 +48,17 @@
         "hookValue": true
       }
     ]
+  },
+  "ru.kslabs.ksweb": {
+    "hooks": [
+      {
+        "class": "ru.kslabs.ksweb.g.a",
+        "method": "b",
+        "parameters": [],
+        "hookType": "REPLACE",
+        "returnType": "BOOLEAN",
+        "hookValue": true
+      }
+    ]
   }
 }
