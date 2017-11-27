@@ -1,6 +1,6 @@
 {
   "application": "NFG Multi Crack",
-  "author": "rockz5555@NFG",
+  "author": "rockz5555",
   "lastUpdated": "2017-NOV-27",
   "web": "https://nizwerfreegallery.blogspot.com",
   "com.lonelycatgames.Xplore": {
@@ -77,7 +77,7 @@
       }
     ]
   },
-  "com.aide": {
+  "com.aide.ui": {
     "hooks": [
       {
         "class": "com.aide.ui.e",
