@@ -58,6 +58,22 @@
         "hookType": "REPLACE",
         "returnType": "BOOLEAN",
         "hookValue": true
+      },
+      {
+        "class": "ru.kslabs.ksweb.g.a",
+        "method": "c",
+        "parameters": [],
+        "hookType": "REPLACE",
+        "returnType": "INTEGER",
+        "hookValue": 2
+      },
+      {
+        "class": "ru.kslabs.ksweb.g.a",
+        "method": "e",
+        "parameters": [],
+        "hookType": "REPLACE",
+        "returnType": "BOOLEAN",
+        "hookValue": true
       }
     ]
   }
