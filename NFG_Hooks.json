@@ -96,7 +96,7 @@
         "method": "getStatus",
         "parameters": [],
         "hookType": "REPLACE",
-        "returnType": null,
+        "returnType": "NULL",
         "hookValue": 1
       }
     ]
