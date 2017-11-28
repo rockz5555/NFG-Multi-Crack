@@ -97,7 +97,7 @@
         "parameters": [],
         "hookType": "REPLACE",
         "returnType": "STRING",
-        "hookValue": "VALID"
+        "hookValue": "PREMIUM"
       }
     ]
   }
