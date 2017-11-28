@@ -92,8 +92,8 @@
   "com.adguard.android": {
     "hooks": [
       {
-        "class": "com.adguard.android.model.AppConfiguration",
-        "method": "isPremium",
+        "class": "com.adguard.android.model.h",
+        "method": "isSubscription",
         "parameters": [],
         "hookType": "REPLACE",
         "returnType": "BOOLEAN",
