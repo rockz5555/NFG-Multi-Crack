@@ -88,25 +88,5 @@
         "hookValue": true
       }
     ]
-  },
-  "com.adguard.android": {
-    "hooks": [
-      {
-        "class": "com.adguard.android.model.enums.LicenseKeyStatus",
-        "method": "getCode",
-        "parameters": [],
-        "hookType": "REPLACE",
-        "returnType": "STRING",
-        "hookValue": "4"
-      },
-      {
-        "class": "com.adguard.android.model.enums.MobileStatus",
-        "method": "getCode",
-        "parameters": [],
-        "hookType": "REPLACE",
-        "returnType": "STRING",
-        "hookValue": "1"
-      }
-    ]
   }
 }
