@@ -98,6 +98,14 @@
         "hookType": "REPLACE",
         "returnType": "STRING",
         "hookValue": "VALID"
+      },
+      {
+        "class": "com.adguard.android.model.enums.MobileStatus",
+        "method": "getCode",
+        "parameters": [],
+        "hookType": "REPLACE",
+        "returnType": "STRING",
+        "hookValue": "PREMIUM"
       }
     ]
   }
