@@ -93,11 +93,12 @@
     "hooks": [
       {
         "class": "com.adguard.android.model.d",
+        "classEnum": "com.adguard.android.model.enums.MobileStatus",
         "method": "getStatus",
         "parameters": [],
-        "hookType": "REPLACE",
-        "returnType": "NULL",
-        "hookValue": 1
+        "hookType": "REPLACE_ENUM",
+        "returnType": "ENUM",
+        "hookValue": "PREMIUM"
       }
     ]
   }
