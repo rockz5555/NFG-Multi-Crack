@@ -1,7 +1,7 @@
 {
   "application": "NFG Multi Crack",
   "author": "rockz5555",
-  "lastUpdated": "2017-11-30",
+  "lastUpdated": "2017-12-01",
   "web": "https://nizwerfreegallery.blogspot.com",
   "com.lonelycatgames.Xplore": {
     "hooks": [
@@ -10,7 +10,6 @@
         "method": "j",
         "parameters": [],
         "hookType": "REPLACE",
-        "returnType": "INTEGER",
         "hookValue": 5
       }
     ]
@@ -22,7 +21,6 @@
         "method": "a",
         "parameters": [],
         "hookType": "REPLACE",
-        "returnType": "BOOLEAN",
         "hookValue": true
       },
       {
@@ -32,7 +30,6 @@
           "android.content.Context"
         ],
         "hookType": "REPLACE",
-        "returnType": "BOOLEAN",
         "hookValue": true
       }
     ]
@@ -44,7 +41,6 @@
         "method": "isElite",
         "parameters": [],
         "hookType": "REPLACE",
-        "returnType": "BOOLEAN",
         "hookValue": true
       }
     ]
@@ -56,7 +52,6 @@
         "method": "b",
         "parameters": [],
         "hookType": "REPLACE",
-        "returnType": "BOOLEAN",
         "hookValue": true
       },
       {
@@ -64,7 +59,6 @@
         "method": "c",
         "parameters": [],
         "hookType": "REPLACE",
-        "returnType": "INTEGER",
         "hookValue": 2
       },
       {
@@ -72,7 +66,6 @@
         "method": "e",
         "parameters": [],
         "hookType": "REPLACE",
-        "returnType": "BOOLEAN",
         "hookValue": true
       }
     ]
@@ -84,7 +77,6 @@
         "method": "FH",
         "parameters": [],
         "hookType": "REPLACE",
-        "returnType": "BOOLEAN",
         "hookValue": true
       }
     ]
@@ -92,13 +84,12 @@
   "com.adguard.android": {
     "hooks": [
       {
-       "class": "com.adguard.android.model.d",
-       "classEnum": "com.adguard.android.model.enums.MobileStatus",
-       "method": "getStatus",
-       "parameters": [],
-       "hookType": "REPLACE_ENUM",
-       "returnType": "ENUM",
-       "hookValue": "PREMIUM"
+        "class": "com.adguard.android.model.d",
+        "classEnum": "com.adguard.android.model.enums.MobileStatus",
+        "method": "getStatus",
+        "parameters": [],
+        "hookType": "REPLACE_ENUM",
+        "hookValue": "PREMIUM"
       }
     ]
   }
