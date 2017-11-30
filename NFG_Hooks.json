@@ -10,7 +10,6 @@
         "method": "j",
         "parameters": [],
         "hookType": "REPLACE",
-        "returnType": "INTEGER",
         "hookValue": 5
       }
     ]
@@ -22,7 +21,6 @@
         "method": "a",
         "parameters": [],
         "hookType": "REPLACE",
-        "returnType": "BOOLEAN",
         "hookValue": true
       },
       {
@@ -32,7 +30,6 @@
           "android.content.Context"
         ],
         "hookType": "REPLACE",
-        "returnType": "BOOLEAN",
         "hookValue": true
       }
     ]
@@ -44,7 +41,6 @@
         "method": "isElite",
         "parameters": [],
         "hookType": "REPLACE",
-        "returnType": "BOOLEAN",
         "hookValue": true
       }
     ]
@@ -56,7 +52,6 @@
         "method": "b",
         "parameters": [],
         "hookType": "REPLACE",
-        "returnType": "BOOLEAN",
         "hookValue": true
       },
       {
@@ -64,7 +59,6 @@
         "method": "c",
         "parameters": [],
         "hookType": "REPLACE",
-        "returnType": "INTEGER",
         "hookValue": 2
       },
       {
@@ -72,7 +66,6 @@
         "method": "e",
         "parameters": [],
         "hookType": "REPLACE",
-        "returnType": "BOOLEAN",
         "hookValue": true
       }
     ]
@@ -84,7 +77,6 @@
         "method": "FH",
         "parameters": [],
         "hookType": "REPLACE",
-        "returnType": "BOOLEAN",
         "hookValue": true
       }
     ]
@@ -97,7 +89,6 @@
         "method": "getStatus",
         "parameters": [],
         "hookType": "REPLACE_ENUM",
-        "returnType": "ENUM",
         "hookValue": "PREMIUM"
       }
     ]
