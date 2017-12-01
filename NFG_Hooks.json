@@ -1,96 +1,98 @@
 {
-  "application": "NFG Multi Crack",
-  "author": "rockz5555",
-  "lastUpdated": "2017-12-01",
-  "web": "https://nizwerfreegallery.blogspot.com",
-  "com.lonelycatgames.Xplore": {
-    "hooks": [
-      {
-        "class": "com.lonelycatgames.Xplore.XploreApp",
-        "method": "j",
-        "parameters": [],
-        "hookType": "REPLACE",
-        "hookValue": 5
-      }
-    ]
-  },
-  "com.mxtech.videoplayer.pro": {
-    "hooks": [
-      {
-        "class": "atm",
-        "method": "a",
-        "parameters": [],
-        "hookType": "REPLACE",
-        "hookValue": true
+   "application": "NFG Multi Crack",
+   "author": "rockz5555",
+   "lastUpdated": "2017-12-01",
+   "web": "https://nizwerfreegallery.blogspot.com",
+   "packages": {
+      "com.adguard.android": {
+         "hooks": [
+            {
+               "class": "com.adguard.android.model.d",
+               "classEnum": "com.adguard.android.model.enums.MobileStatus",
+               "hookType": "REPLACE_ENUM",
+               "hookValue": "PREMIUM",
+               "method": "getStatus",
+               "parameters": []
+            }
+         ]
       },
-      {
-        "class": "atm",
-        "method": "a",
-        "parameters": [
-          "android.content.Context"
-        ],
-        "hookType": "REPLACE",
-        "hookValue": true
-      }
-    ]
-  },
-  "hotspotshield.android.vpn": {
-    "hooks": [
-      {
-        "class": "com.anchorfree.eliteapi.data.UserStatus",
-        "method": "isElite",
-        "parameters": [],
-        "hookType": "REPLACE",
-        "hookValue": true
-      }
-    ]
-  },
-  "ru.kslabs.ksweb": {
-    "hooks": [
-      {
-        "class": "ru.kslabs.ksweb.g.a",
-        "method": "b",
-        "parameters": [],
-        "hookType": "REPLACE",
-        "hookValue": true
+      "com.aide.ui": {
+         "hooks": [
+            {
+               "class": "com.aide.ui.e",
+               "hookType": "REPLACE",
+               "hookValue": true,
+               "method": "FH",
+               "parameters": []
+            }
+         ]
       },
-      {
-        "class": "ru.kslabs.ksweb.g.a",
-        "method": "c",
-        "parameters": [],
-        "hookType": "REPLACE",
-        "hookValue": 2
+      "com.lonelycatgames.Xplore": {
+         "hooks": [
+            {
+               "class": "com.lonelycatgames.Xplore.XploreApp",
+               "hookType": "REPLACE",
+               "hookValue": 5,
+               "method": "j",
+               "parameters": []
+            }
+         ]
       },
-      {
-        "class": "ru.kslabs.ksweb.g.a",
-        "method": "e",
-        "parameters": [],
-        "hookType": "REPLACE",
-        "hookValue": true
+      "com.mxtech.videoplayer.pro": {
+         "hooks": [
+            {
+               "class": "atm",
+               "hookType": "REPLACE",
+               "hookValue": true,
+               "method": "a",
+               "parameters": []
+            },
+            {
+               "class": "atm",
+               "hookType": "REPLACE",
+               "hookValue": true,
+               "method": "a",
+               "parameters": [
+                  "android.content.Context"
+               ]
+            }
+         ]
+      },
+      "hotspotshield.android.vpn": {
+         "hooks": [
+            {
+               "class": "com.anchorfree.eliteapi.data.UserStatus",
+               "hookType": "REPLACE",
+               "hookValue": true,
+               "method": "isElite",
+               "parameters": []
+            }
+         ]
+      },
+      "ru.kslabs.ksweb": {
+         "hooks": [
+            {
+               "class": "ru.kslabs.ksweb.g.a",
+               "hookType": "REPLACE",
+               "hookValue": true,
+               "method": "b",
+               "parameters": []
+            },
+            {
+               "class": "ru.kslabs.ksweb.g.a",
+               "hookType": "REPLACE",
+               "hookValue": 2,
+               "method": "c",
+               "parameters": []
+            },
+            {
+               "class": "ru.kslabs.ksweb.g.a",
+               "hookType": "REPLACE",
+               "hookValue": true,
+               "method": "e",
+               "parameters": []
+            }
+         ]
       }
-    ]
-  },
-  "com.aide.ui": {
-    "hooks": [
-      {
-        "class": "com.aide.ui.e",
-        "method": "FH",
-        "parameters": [],
-        "hookType": "REPLACE",
-        "hookValue": true
-      }
-    ]
-  },
-  "com.adguard.android": {
-    "hooks": [
-      {
-        "class": "com.adguard.android.model.d",
-        "classEnum": "com.adguard.android.model.enums.MobileStatus",
-        "method": "getStatus",
-        "parameters": [],
-        "hookType": "REPLACE_ENUM",
-        "hookValue": "PREMIUM"
-      }
-    ]
-  }
+   }
 }
