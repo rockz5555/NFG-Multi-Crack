@@ -1,6 +1,6 @@
-X-plore
-AIDE
-AdGuard
-Hotspot Shield VPN
-MX Player Pro
-KSWEB
+☑ X-plore
+☑ AIDE
+☑ AdGuard
+☑ Hotspot Shield VPN
+☑ MX Player Pro
+☑ KSWEB
