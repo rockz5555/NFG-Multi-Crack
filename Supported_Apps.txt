@@ -1,4 +1,4 @@
-Always "Download Hooks" on each startup :)
+Always "Download Hooks" on each startup
 
 ✔ X-plore
 ✔ AIDE
