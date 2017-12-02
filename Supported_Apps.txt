@@ -1,4 +1,5 @@
-Always "Download Hooks" on each startup
+Click on Menu -> "Download Hooks"
+To stay updated
 
 ✔ X-plore
 ✔ AIDE
