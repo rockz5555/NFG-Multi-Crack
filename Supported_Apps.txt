@@ -3,7 +3,7 @@ To stay updated
 
 ✔ X-plore
 ✔ AIDE
-✔ AdGuard
+✔ AdGuard (Goto App -> "Restore Purchases")
 ✔ Hotspot Shield VPN
 ✔ MX Player Pro
 ✔ KSWEB
