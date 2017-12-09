@@ -1,8 +1,8 @@
 {
    "application": "NFG Multi Crack",
    "author": "rockz5555",
+   "authorWeb": "https://nizwerfreegallery.blogspot.com",
    "lastUpdated": "2017-12-09",
-   "web": "https://nizwerfreegallery.blogspot.com",
    "packages": {
       "com.adguard.android": {
          "hooks": [
@@ -58,6 +58,36 @@
             }
          ]
       },
+      "com.syncme.syncmeapp": {
+         "hooks": [
+            {
+               "class": "com.syncme.in_app_billing.InAppBillingManager",
+               "hookType": "REPLACE",
+               "hookValue": true,
+               "method": "isAnyProductPurchased",
+               "parameters": [
+                  "java.util.List"
+               ]
+            },
+            {
+               "class": "com.syncme.in_app_billing.InAppBillingManager",
+               "hookType": "REPLACE",
+               "hookValue": true,
+               "method": "isEverPurchasedAnyProduct",
+               "parameters": []
+            },
+            {
+               "class": "com.syncme.in_app_billing.InAppBillingManager",
+               "hookType": "REPLACE",
+               "hookValue": true,
+               "method": "isProductPurchased",
+               "parameters": [
+                  "com.syncme.in_app_billing.InAppBillingManager$Product",
+                  "com.syncme.in_app_billing.InAppBillingManager$Product$PurchaseContext"
+               ]
+            }
+         ]
+      },
       "hotspotshield.android.vpn": {
          "hooks": [
             {
@@ -91,36 +121,6 @@
                "hookValue": true,
                "method": "e",
                "parameters": []
-            }
-         ]
-      },
-      "com.syncme.syncmeapp": {
-         "hooks": [
-            {
-               "class": "com.syncme.in_app_billing.InAppBillingManager",
-               "hookType": "REPLACE",
-               "hookValue": true,
-               "method": "isAnyProductPurchased",
-               "parameters": [
-                  "java.util.List"
-               ]
-            },
-            {
-               "class": "com.syncme.in_app_billing.InAppBillingManager",
-               "hookType": "REPLACE",
-               "hookValue": true,
-               "method": "isEverPurchasedAnyProduct",
-               "parameters": []
-            },
-            {
-               "class": "com.syncme.in_app_billing.InAppBillingManager",
-               "hookType": "REPLACE",
-               "hookValue": true,
-               "method": "isProductPurchased",
-               "parameters": [
-                  "com.syncme.in_app_billing.InAppBillingManager$Product",
-                  "com.syncme.in_app_billing.InAppBillingManager$Product$PurchaseContext"
-               ]
             }
          ]
       }
