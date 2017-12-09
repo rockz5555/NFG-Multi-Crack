@@ -1,10 +1,15 @@
 Menu -> "Download Hooks"
 And stay tuned
 
-✔ X-plore
-✔ AIDE
-✔ AdGuard (Goto App -> "Restore Purchases")
-✔ Hotspot Shield VPN
-✔ MX Player Pro
-✔ KSWEB
-✔ Sync.ME
+✔ X-plore v3.92.02
+✔ AIDE v3.2.171025
+✔ AdGuard v2.10.176 (Goto App -> "Restore Purchases")
+✔ Hotspot Shield VPN v5.8.4
+✔ MX Player Pro v1.9.8
+✔ KSWEB v3.75
+✔ Sync.ME v4.0.9
+
+Maybe > versions will be supported :)
+
+PS:
+Try not to downgrade apps. Sometimes it may not work
