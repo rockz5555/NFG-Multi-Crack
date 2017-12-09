@@ -1,5 +1,5 @@
 Menu -> "Download Hooks"
-And stay tuned
+AND STAY TUNED
 
 ✔ X-plore v3.92.02
 ✔ AIDE v3.2.171025
@@ -9,7 +9,7 @@ And stay tuned
 ✔ KSWEB v3.75
 ✔ Sync.ME v4.0.9
 
-Maybe > versions will be supported
+MAYBE > VERSIONS WILL BE SUPPORTED
 
 PS:
 Try not to downgrade apps. Sometimes it may not work
