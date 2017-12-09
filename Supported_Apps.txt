@@ -9,7 +9,7 @@ And stay tuned
 ✔ KSWEB v3.75
 ✔ Sync.ME v4.0.9
 
-Maybe > versions will be supported :)
+Maybe > versions will be supported
 
 PS:
 Try not to downgrade apps. Sometimes it may not work
