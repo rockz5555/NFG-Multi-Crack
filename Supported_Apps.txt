@@ -5,7 +5,7 @@ And stay tuned
 ✔ AIDE v3.2.171025
 ✔ AdGuard v2.10.176 (Goto App -> "Restore Purchases")
 ✔ Hotspot Shield VPN v5.8.4
-✔ MX Player Pro v1.9.8
+✔ MX Player Pro v1.9.10
 ✔ KSWEB v3.75
 ✔ Sync.ME v4.0.9
 
