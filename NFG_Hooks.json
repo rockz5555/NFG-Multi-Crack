@@ -41,14 +41,14 @@
       "com.mxtech.videoplayer.pro": {
          "hooks": [
             {
-               "class": "atm",
+               "class": "agu",
                "hookType": "REPLACE",
                "hookValue": true,
                "method": "a",
                "parameters": []
             },
             {
-               "class": "atm",
+               "class": "agu",
                "hookType": "REPLACE",
                "hookValue": true,
                "method": "a",
