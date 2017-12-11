@@ -82,6 +82,35 @@
             }
          ]
       },
+      "org.kman.AquaMail": {
+         "hooks": [
+            {
+               "class": "org.kman.AquaMail.licensing.LicenseData",
+               "hookType": "REPLACE",
+               "hookValue": false,
+               "method": "d",
+               "parameters": [
+                  "long"
+               ]
+            },
+            {
+               "class": "org.kman.AquaMail.licensing.LicenseData",
+               "hookType": "REPLACE",
+               "hookValue": true,
+               "method": "e",
+               "parameters": [
+                  "long"
+               ]
+            },
+            {
+               "class": "org.kman.AquaMail.data.LicenseManager",
+               "hookType": "REPLACE",
+               "hookValue": "lolsometext",
+               "method": "getRawData",
+               "parameters": []
+            }       
+         ]
+      },
       "ru.kslabs.ksweb": {
          "hooks": [
             {
