@@ -68,23 +68,6 @@
                "parameters": [
                   "java.util.List"
                ]
-            },
-            {
-               "class": "com.syncme.in_app_billing.InAppBillingManager",
-               "hookType": "REPLACE",
-               "hookValue": true,
-               "method": "isEverPurchasedAnyProduct",
-               "parameters": []
-            },
-            {
-               "class": "com.syncme.in_app_billing.InAppBillingManager",
-               "hookType": "REPLACE",
-               "hookValue": true,
-               "method": "isProductPurchased",
-               "parameters": [
-                  "com.syncme.in_app_billing.InAppBillingManager$Product",
-                  "com.syncme.in_app_billing.InAppBillingManager$Product$PurchaseContext"
-               ]
             }
          ]
       },
