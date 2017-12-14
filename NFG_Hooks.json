@@ -2,7 +2,7 @@
    "application": "NFG Multi Crack",
    "author": "rockz5555",
    "authorWeb": "https://nizwerfreegallery.blogspot.com",
-   "lastUpdated": "2017-12-11",
+   "lastUpdated": "2017-12-14",
    "packages": {
       "com.adguard.android": {
          "hooks": [
@@ -34,6 +34,13 @@
                "hookType": "REPLACE",
                "hookValue": 5,
                "method": "j",
+               "parameters": []
+            },
+            {
+               "class": "com.lonelycatgames.Xplore.XploreApp",
+               "hookType": "REPLACE",
+               "hookValue": 5,
+               "method": "k",
                "parameters": []
             }
          ]
