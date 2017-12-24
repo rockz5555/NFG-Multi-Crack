@@ -3,7 +3,7 @@ AND STAY TUNED
 
 ✔ AIDE v3.2.171025
 ✔ AdGuard v2.10.176 (Goto App -> "Restore Purchases")
-✔ AquaMail v1.12.0-651
+✔ AquaMail v1.13.1-727
 ✔ Hotspot Shield VPN v5.8.4
 ✔ KSWEB v3.75
 ✔ MX Player Pro v1.9.10
@@ -11,7 +11,7 @@ AND STAY TUNED
 ✔ X-plore v3.92.02
 
 LAST ADDED:
-** AquaMail v1.12.0-651
+** AquaMail v1.13.1-727
 
 MAYBE > VERSIONS WILL BE SUPPORTED
 
