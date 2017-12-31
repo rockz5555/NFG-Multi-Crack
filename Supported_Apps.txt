@@ -1,6 +1,7 @@
 Menu -> "Download Hooks"
 AND STAY TUNED
 
+✔ ActionDirector v2.9.2
 ✔ AIDE v3.2.171025
 ✔ AdGuard v2.10.176 (Click "Restore Purchases")
 ✔ AquaMail v1.13.1-727
@@ -11,6 +12,9 @@ AND STAY TUNED
 ✔ X-plore v3.98.02
 
 MAYBE > VERSIONS WILL BE SUPPORTED
+
+Last added:
+ActionDirector v2.9.2
 
 PS:
 Try not to downgrade apps. Sometimes it may not work
