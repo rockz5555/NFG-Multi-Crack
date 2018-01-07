@@ -7,15 +7,12 @@
 		"com.avast.android.mobilesecurity": {
 			"hooks": [
 				{
-					"class": "com.avast.android.mobilesecurity.app.subscription.InterstitialRemoveAdsActivity",
+					"class": "com.avast.android.mobilesecurity.app.subscription.PurchaseActivity",
 					"hookType": "REPLACE",
-					"hookValue": true,
+					"hookValue": "PURCHASE_GENERIC_CARD",
 					"method": "a",
 					"parameters": [
-						"java.lang.String",
-						"com.avast.android.mobilesecurity.settings.l",
-						"com.avast.android.mobilesecurity.settings.k",
-						"com.avast.android.mobilesecurity.subscription.c"
+						"java.lang.String"
 					]
 				}
 			],
