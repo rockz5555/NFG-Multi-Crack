@@ -54,6 +54,14 @@
 				       "method": "d",
 				       "parameters": []
 				}
+				,
+				{
+					"class": "com.avg.billing.app.AvgBillingActivity",
+				       "hookType": "REPLACE",
+				       "hookValue": true,
+				       "method": "t",
+				       "parameters": []
+				}
 			],
 			"specialNote": "N/A",
 			"crackedFor": "6.8.3...1"
