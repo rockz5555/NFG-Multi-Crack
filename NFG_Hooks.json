@@ -44,7 +44,7 @@
 					"class": "com.avg.toolkit.license.a",
 				       "hookType": "REPLACE",
 				       "hookValue": false,
-				       "method": "x",
+				       "method": "c",
 				       "parameters": []
 				},
 				{
