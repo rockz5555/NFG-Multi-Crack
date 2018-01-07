@@ -25,6 +25,13 @@
 				       "parameters": [
 					       "int"
 				       ]
+				},
+				{
+					"class": "com.avg.toolkit.license.a",
+				       "hookType": "REPLACE",
+				       "hookValue": true,
+				       "method": "a",
+				       "parameters": []
 				}
 			],
 			"specialNote": "N/A",
