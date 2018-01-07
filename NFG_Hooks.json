@@ -6,66 +6,66 @@
 			"hooks": [
 				{
 					"class": "com.avg.billing.app.j$b",
-				       "classEnum": "com.avg.billing.app.j$b",
-				       "hookType": "REPLACE_ENUM",
-				       "hookValue": "SUCCEEDED",
-				       "method": "getStatusFromInt",
-				       "parameters": [
-					       "int"
-				       ]
+					"classEnum": "com.avg.billing.app.j$b",
+					"hookType": "REPLACE_ENUM",
+					"hookValue": "SUCCEEDED",
+					"method": "getStatusFromInt",
+					"parameters": [
+						"int"
+					]
 				},
 				{
 					"class": "com.avg.toolkit.license.a$b",
-				       "classEnum": "com.avg.toolkit.license.a$b",
-				       "hookType": "REPLACE_ENUM",
-				       "hookValue": "PRO",
-				       "method": "toProductType",
-				       "parameters": [
-					       "int"
-				       ]
+					"classEnum": "com.avg.toolkit.license.a$b",
+					"hookType": "REPLACE_ENUM",
+					"hookValue": "PRO",
+					"method": "toProductType",
+					"parameters": [
+						"int"
+					]
 				},
 				{
 					"class": "com.avg.toolkit.license.a",
-				       "hookType": "REPLACE",
-				       "hookValue": true,
-				       "method": "a",
-				       "parameters": []
+					"hookType": "REPLACE",
+					"hookValue": true,
+					"method": "a",
+					"parameters": []
 				},
 				{
 					"class": "com.avg.toolkit.license.a",
-				       "hookType": "REPLACE",
-				       "hookValue": false,
-				       "method": "b",
-				       "parameters": []
+					"hookType": "REPLACE",
+					"hookValue": false,
+					"method": "b",
+					"parameters": []
 				},
 				{
 					"class": "com.avg.toolkit.license.a",
-				       "hookType": "REPLACE",
-				       "hookValue": false,
-				       "method": "c",
-				       "parameters": []
+					"hookType": "REPLACE",
+					"hookValue": false,
+					"method": "c",
+					"parameters": []
 				},
 				{
 					"class": "com.avg.toolkit.license.a",
-				       "hookType": "REPLACE",
-				       "hookValue": true,
-				       "method": "d",
-				       "parameters": []
+					"hookType": "REPLACE",
+					"hookValue": true,
+					"method": "d",
+					"parameters": []
 				},
 				{
 					"class": "com.avg.billing.app.AvgBillingActivity",
-				       "hookType": "REPLACE",
-				       "hookValue": true,
-				       "method": "t",
-				       "parameters": []
+					"hookType": "REPLACE",
+					"hookValue": true,
+					"method": "t",
+					"parameters": []
 				},
 				{
 					"class": "com.avg.billing.gms.PlanJson",
-				       "classEnum": "com.avg.billing.gms.PlanJson$ProductType",
-				       "hookType": "REPLACE_ENUM",
-				       "hookValue": "GMS_ULTIMATE",
-				       "method": "getProductType",
-				       "parameters": []
+					"classEnum": "com.avg.billing.gms.PlanJson$ProductType",
+					"hookType": "REPLACE_ENUM",
+					"hookValue": "GMS_ULTIMATE",
+					"method": "getProductType",
+					"parameters": []
 				}
 			],
 			"specialNote": "N/A",
