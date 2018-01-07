@@ -32,6 +32,27 @@
 				       "hookValue": true,
 				       "method": "a",
 				       "parameters": []
+				},
+				{
+					"class": "com.avg.toolkit.license.a",
+				       "hookType": "REPLACE",
+				       "hookValue": false,
+				       "method": "b",
+				       "parameters": []
+				},
+				{
+					"class": "com.avg.toolkit.license.a",
+				       "hookType": "REPLACE",
+				       "hookValue": false,
+				       "method": "x",
+				       "parameters": []
+				},
+				{
+					"class": "com.avg.toolkit.license.a",
+				       "hookType": "REPLACE",
+				       "hookValue": true,
+				       "method": "d",
+				       "parameters": []
 				}
 			],
 			"specialNote": "N/A",
