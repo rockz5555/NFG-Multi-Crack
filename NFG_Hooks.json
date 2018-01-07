@@ -15,6 +15,16 @@
 				       "parameters": [
 					       "int"
 				       ]
+				},
+				{
+					"class": "com.avg.toolkit.license.a$b",
+				       "classEnum": "com.avg.toolkit.license.a$b",
+				       "hookType": "REPLACE_ENUM",
+				       "hookValue": "PRO",
+				       "method": "toProductType",
+				       "parameters": [
+					       "int"
+				       ]
 				}
 			],
 			"specialNote": "N/A",
