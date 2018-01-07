@@ -63,7 +63,7 @@
 				},
 				{
 					"class": "com.avg.billing.gms.PlanJson",
-				       "classEnum": "com.avg.billing.gms.PlanJson$ProductType,
+				       "classEnum": "com.avg.billing.gms.PlanJson$ProductType",
 				       "hookType": "REPLACE_ENUM",
 				       "hookValue": "GMS_ULTIMATE",
 				       "method": "getProductType",
