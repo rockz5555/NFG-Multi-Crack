@@ -7,13 +7,14 @@
 		"com.avast.android.mobilesecurity": {
 			"hooks": [
 				{
-					"class": "com.avast.android.mobilesecurity.app.subscription.PurchaseActivity",
-					"hookType": "REPLACE",
-					"hookValue": "PURCHASE_GENERIC_CARD",
-					"method": "a",
-					"parameters": [
-						"java.lang.String"
-					]
+					"class": "com.avg.billing.app.j$b",
+				       "classEnum": "com.avg.billing.app.j$b",
+				       "hookType": "REPLACE_ENUM",
+				       "hookValue": "SUCCEEDED",
+				       "method": "getStatusFromInt",
+				       "parameters": [
+					       "int"
+				       ]
 				}
 			],
 			"specialNote": "N/A",
