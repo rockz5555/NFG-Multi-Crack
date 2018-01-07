@@ -1,7 +1,4 @@
 {
-	"application": "NFG Multi Crack",
-	"author": "rockz5555",
-	"authorWeb": "https://nizwerfreegallery.blogspot.com",
 	"lastUpdated": "2017-12-31",
 	"packages": {
 		"com.avast.android.mobilesecurity": {
@@ -71,7 +68,7 @@
 				}
 			],
 			"specialNote": "N/A",
-			"crackedFor": "6.8.3...1"
+			"crackedFor": "6.8.3"
 		}
 	}
 }
