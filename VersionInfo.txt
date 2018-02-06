@@ -1,4 +1,4 @@
 {
 	"version_code": 120,
-	"content": "<p style=\"text-align: center; color: lime; font-size: 16px;\">New version has been found</p>\n\n<p>Installed Version: 1.1</p><p>Latest Version: 1.2</p> <p><b>New features:</b></p><li>Added feature A</li><li>Added feature B</li>\n\n<p><b>Improvements</b></p><li>Improved feature A</li><li>Improved feature B</li>"
+	"content": "<p style='text-align: center; color: lime; font-size: 16px;'>New version has been found</p>\n\n<p>Installed Version: 1.1</p><p>Latest Version: 1.2</p> <p><b>New features:</b></p><li>Added feature A</li><li>Added feature B</li>\n\n<p><b>Improvements</b></p><li>Improved feature A</li><li>Improved feature B</li>"
 }
