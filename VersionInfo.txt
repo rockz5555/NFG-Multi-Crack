@@ -1,4 +1,4 @@
  {
  "version_code": 120,
- "content": "Version 1.2 <p>New features:</p><li>Added feature A</li><li>Added feature B</li><li>Added feature C</li><li>Added feature D</li><li>Added feature E</li><li>Added feature F</li><li>Added feature G</li>"
+ "content": "Version 1.2 <p><b>New features:</b></p><li>Added feature A</li><li>Added feature B</li>\n\n<p>Improvements</p>"
  }
