@@ -1,0 +1,107 @@
+[
+    {
+        "appIconSrc": "https://insmac.org/uploads/posts/2017-09/1506022803_adguard.png",
+        "appName": "Adguard",
+        "homepage": "https://adguard.com/en/adguard-android/overview.html",
+        "packageName": "com.adguard.android",
+        "isPlayStoreAvailable": false
+    },
+    {
+        "appIconSrc": "https://lh3.googleusercontent.com/0WtsR4_NKcbftR5KvnlQ9YYpkBsfglEKhsvBbe-PSOgWkuDWIw2DIUnkmbuWy7DYFQ=s180-rw",
+        "appName": "AIDE- IDE for Android Java C++",
+        "homepage": "https://play.google.com/store/apps/details?id=com.aide.ui",
+        "packageName": "com.aide.ui",
+        "isPlayStoreAvailable": true
+    },
+    {
+        "appIconSrc": "https://lh3.googleusercontent.com/qnbLXlszRE615jbHgddyxPR2T42EixXA4ixzryVjJERxwhuC-ovkDJgd_4NQ3wQqqum3=s180-rw",
+        "appName": "AIDE Web - Html,Css,JavaScript",
+        "homepage": "https://play.google.com/store/apps/details?id=com.aide.web",
+        "packageName": "com.aide.web",
+        "isPlayStoreAvailable": true
+    },
+    {
+        "appIconSrc": "https://lh3.googleusercontent.com/F7oSfGBGwoThStddkF8I9gMj-we1frg0lF4TQAkQgiaHMC08xfRBelHXIdiPQFOI-3Fv=s180-rw",
+        "appName": "Avast Antivirus – Mobile Security & Virus Cleaner",
+        "homepage": "https://play.google.com/store/apps/details?id=com.avast.android.mobilesecurity",
+        "packageName": "com.avast.android.mobilesecurity",
+        "isPlayStoreAvailable": true
+    },
+    {
+        "appIconSrc": "https://lh3.googleusercontent.com/y-V2MnN6_BaHmuVk8pgUy3u_79OGOOuU1Lhy7vjBlMUqKGLDrr0rcchrTEhvz8IAwVA=s180-rw",
+        "appName": "SKETCHWARE - CREATE YOUR OWN APPS",
+        "homepage": "https://play.google.com/store/apps/details?id=com.besome.sketch",
+        "packageName": "com.besome.sketch",
+        "isPlayStoreAvailable": true
+    },
+    {
+        "appIconSrc": "https://lh3.googleusercontent.com/iJ4nhjiExeaowbVd8-rXfVafEa3HUykm_UGlAPc18H9wB5J9r4FiJDcmWBdnH3OCuw0d=s180-rw",
+        "appName": "Bitdefender Mobile Security & Antivirus",
+        "homepage": "https://play.google.com/store/apps/details?id=com.bitdefender.security",
+        "packageName": "com.bitdefender.security",
+        "isPlayStoreAvailable": true
+    },
+    {
+        "appIconSrc": "https://lh3.googleusercontent.com/48OtX7kJ0YYultztvdniOwe5pPaORQSRdEp91VokjCiF4idFkd7uoFjKCmEihmL7gUNp=s180-rw",
+        "appName": "Link2SD",
+        "homepage": "https://play.google.com/store/apps/details?id=com.buak.Link2SD",
+        "packageName": "com.buak.Link2SD",
+        "isPlayStoreAvailable": true
+    },
+    {
+        "appIconSrc": "https://lh3.googleusercontent.com/QeiFrTBHIxAFTfb0Qe71z8Z6dwc3BhEP0p0-Jcw6K-FTjw3LtB4Wh_XrTN0RpcNHCQ=s180-rw",
+        "appName": "Call Recorder - Cube ACR",
+        "homepage": "https://play.google.com/store/apps/details?id=com.catalinagroup.callrecorder",
+        "packageName": "com.catalinagroup.callrecorder",
+        "isPlayStoreAvailable": true
+    },
+    {
+        "appIconSrc": "https://www.apklinker.com/wp-content/plugins/APKLinker/resize_img.php?u=https://www.apklinker.com/wp-content/uploads/2020/02/GravityBox.png&q=9&s=80",
+        "appName": "GravityBox Q",
+        "homepage": "https://forum.xda-developers.com/xposed/modules/app-gravitybox-v10-0-0-beta-1-android-10-t3974497",
+        "packageName": "com.ceco.q.gravitybox",
+        "isPlayStoreAvailable": false
+    },
+    {
+        "appIconSrc": "https://img.utdstc.com/icons/root-toolcase-android.png",
+        "appName": "Root ToolCase",
+        "homepage": "https://roottoolcase.cpu82.com/",
+        "packageName": "com.cpu82.roottoolcase",
+        "isPlayStoreAvailable": false
+    },
+    {
+        "appIconSrc": "https://lh3.googleusercontent.com/V3kXSN12ylKFPwlMJakM8iFU_iwAMIwATdHYox0G3U2rK2wmRB00GldPt6vb4vwX2Xg=s180-rw",
+        "appName": "ActionDirector Video Editor - Edit Videos Fast",
+        "homepage": "https://play.google.com/store/apps/details?id=com.cyberlink.actiondirector",
+        "packageName": "com.cyberlink.actiondirector",
+        "isPlayStoreAvailable": true
+    },
+    {
+        "appIconSrc": "https://lh3.googleusercontent.com/rcCCnwppWG3TNCXxMCUbk4pviTHHirziyfvZPPPvZONxTN1-2nOVMRO921_uK4KTf6ze=s180-rw",
+        "appName": "Dr.Web Security Space",
+        "homepage": "https://play.google.com/store/apps/details?id=com.drweb.pro",
+        "packageName": "com.drweb.pro",
+        "isPlayStoreAvailable": true
+    },
+    {
+        "appIconSrc": "https://lh3.googleusercontent.com/ZfKZlSBUSyrWni4pPEBNhmFVkafq7bw7vgDvmtuRU6XHL7o-lG95y0VM45af9nG_UKs=s180-rw",
+        "appName": "TextNow: Free Texting & Calling App",
+        "homepage": "https://play.google.com/store/apps/details?id=com.enflick.android.TextNow",
+        "packageName": "com.enflick.android.TextNow",
+        "isPlayStoreAvailable": true
+    },
+    {
+        "appIconSrc": "https://lh3.googleusercontent.com/QJObxznpklAxDNp0OVe3kAP5ZfUouIvRDO0kPj-V3MRjoRYKwj9RVTxOwG9yrlY-bgG3=s180-rw",
+        "appName": "Evernote - Notes Organizer & Daily Planner",
+        "homepage": "https://play.google.com/store/apps/details?id=com.evernote",
+        "packageName": "com.evernote",
+        "isPlayStoreAvailable": true
+    },
+    {
+        "appIconSrc": "https://lh3.googleusercontent.com/CLrkySjrKL5pCSIrBtSqcboIWNRAapl9ndIT5EbkvIhAPryxQonuQp_GUC4N3HHky50=s180-rw",
+        "appName": "apk-signer",
+        "homepage": "https://play.google.com/store/apps/details?id=com.haibison.apksigner",
+        "packageName": "com.haibison.apksigner",
+        "isPlayStoreAvailable": true
+    }
+]
