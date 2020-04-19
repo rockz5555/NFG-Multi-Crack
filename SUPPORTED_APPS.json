@@ -402,7 +402,7 @@
     "appIconSrc": "https://data.apkshub.com/91/software.solarwarez.xmiui/0.2.1.1/icon.png",
     "appName": "xMIUI",
     "homepage": "https://www.apkshub.com/app/software.solarwarez.xmiui",
-    "packageName": "ru.kslabs.ksweb",
+    "packageName": "software.solarwarez.xmiui",
     "isPlayStoreAvailable": false
   }
 ]
