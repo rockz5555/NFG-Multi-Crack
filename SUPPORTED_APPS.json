@@ -1,5 +1,12 @@
 [
   {
+    "appIconSrc": "https://lh3.googleusercontent.com/P_zR1OnVwD3NhH_MP-zwN2Ey5DGf-6bkbpax82-BGD5TuuFFq--g9WJ0sLyVvEmhH2sg=s180-rw",
+    "appName": "3C All-in-One Toolbox",
+    "homepage": "https://play.google.com/store/apps/details?id=ccc71.at.free",
+    "packageName": "ccc71.at.free",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://insmac.org/uploads/posts/2017-09/1506022803_adguard.png",
     "appName": "Adguard",
     "homepage": "https://adguard.com/en/adguard-android/overview.html",
