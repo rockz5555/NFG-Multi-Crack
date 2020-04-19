@@ -91,6 +91,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://lh3.googleusercontent.com/WH_sgfQ4AmeK0_dCLUrrDUEbJ0MSPGjpVHzArUGk7d1DRG7citAa3rOk1pZYaT2_jiY=s180-rw",
+    "appName": "Java N-IDE - Android Builder - Java SE Compiler",
+    "homepage": "https://play.google.com/store/apps/details?id=com.duy.compiler.javanide",
+    "packageName": "com.duy.compiler.javanide",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/ZfKZlSBUSyrWni4pPEBNhmFVkafq7bw7vgDvmtuRU6XHL7o-lG95y0VM45af9nG_UKs=s180-rw",
     "appName": "TextNow: Free Texting & Calling App",
     "homepage": "https://play.google.com/store/apps/details?id=com.enflick.android.TextNow",
