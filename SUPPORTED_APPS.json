@@ -1,107 +1,408 @@
 [
-    {
-        "appIconSrc": "https://insmac.org/uploads/posts/2017-09/1506022803_adguard.png",
-        "appName": "Adguard",
-        "homepage": "https://adguard.com/en/adguard-android/overview.html",
-        "packageName": "com.adguard.android",
-        "isPlayStoreAvailable": false
-    },
-    {
-        "appIconSrc": "https://lh3.googleusercontent.com/0WtsR4_NKcbftR5KvnlQ9YYpkBsfglEKhsvBbe-PSOgWkuDWIw2DIUnkmbuWy7DYFQ=s180-rw",
-        "appName": "AIDE- IDE for Android Java C++",
-        "homepage": "https://play.google.com/store/apps/details?id=com.aide.ui",
-        "packageName": "com.aide.ui",
-        "isPlayStoreAvailable": true
-    },
-    {
-        "appIconSrc": "https://lh3.googleusercontent.com/qnbLXlszRE615jbHgddyxPR2T42EixXA4ixzryVjJERxwhuC-ovkDJgd_4NQ3wQqqum3=s180-rw",
-        "appName": "AIDE Web - Html,Css,JavaScript",
-        "homepage": "https://play.google.com/store/apps/details?id=com.aide.web",
-        "packageName": "com.aide.web",
-        "isPlayStoreAvailable": true
-    },
-    {
-        "appIconSrc": "https://lh3.googleusercontent.com/F7oSfGBGwoThStddkF8I9gMj-we1frg0lF4TQAkQgiaHMC08xfRBelHXIdiPQFOI-3Fv=s180-rw",
-        "appName": "Avast Antivirus – Mobile Security & Virus Cleaner",
-        "homepage": "https://play.google.com/store/apps/details?id=com.avast.android.mobilesecurity",
-        "packageName": "com.avast.android.mobilesecurity",
-        "isPlayStoreAvailable": true
-    },
-    {
-        "appIconSrc": "https://lh3.googleusercontent.com/y-V2MnN6_BaHmuVk8pgUy3u_79OGOOuU1Lhy7vjBlMUqKGLDrr0rcchrTEhvz8IAwVA=s180-rw",
-        "appName": "SKETCHWARE - CREATE YOUR OWN APPS",
-        "homepage": "https://play.google.com/store/apps/details?id=com.besome.sketch",
-        "packageName": "com.besome.sketch",
-        "isPlayStoreAvailable": true
-    },
-    {
-        "appIconSrc": "https://lh3.googleusercontent.com/iJ4nhjiExeaowbVd8-rXfVafEa3HUykm_UGlAPc18H9wB5J9r4FiJDcmWBdnH3OCuw0d=s180-rw",
-        "appName": "Bitdefender Mobile Security & Antivirus",
-        "homepage": "https://play.google.com/store/apps/details?id=com.bitdefender.security",
-        "packageName": "com.bitdefender.security",
-        "isPlayStoreAvailable": true
-    },
-    {
-        "appIconSrc": "https://lh3.googleusercontent.com/48OtX7kJ0YYultztvdniOwe5pPaORQSRdEp91VokjCiF4idFkd7uoFjKCmEihmL7gUNp=s180-rw",
-        "appName": "Link2SD",
-        "homepage": "https://play.google.com/store/apps/details?id=com.buak.Link2SD",
-        "packageName": "com.buak.Link2SD",
-        "isPlayStoreAvailable": true
-    },
-    {
-        "appIconSrc": "https://lh3.googleusercontent.com/QeiFrTBHIxAFTfb0Qe71z8Z6dwc3BhEP0p0-Jcw6K-FTjw3LtB4Wh_XrTN0RpcNHCQ=s180-rw",
-        "appName": "Call Recorder - Cube ACR",
-        "homepage": "https://play.google.com/store/apps/details?id=com.catalinagroup.callrecorder",
-        "packageName": "com.catalinagroup.callrecorder",
-        "isPlayStoreAvailable": true
-    },
-    {
-        "appIconSrc": "https://www.apklinker.com/wp-content/plugins/APKLinker/resize_img.php?u=https://www.apklinker.com/wp-content/uploads/2020/02/GravityBox.png&q=9&s=80",
-        "appName": "GravityBox Q",
-        "homepage": "https://forum.xda-developers.com/xposed/modules/app-gravitybox-v10-0-0-beta-1-android-10-t3974497",
-        "packageName": "com.ceco.q.gravitybox",
-        "isPlayStoreAvailable": false
-    },
-    {
-        "appIconSrc": "https://img.utdstc.com/icons/root-toolcase-android.png",
-        "appName": "Root ToolCase",
-        "homepage": "https://roottoolcase.cpu82.com/",
-        "packageName": "com.cpu82.roottoolcase",
-        "isPlayStoreAvailable": false
-    },
-    {
-        "appIconSrc": "https://lh3.googleusercontent.com/V3kXSN12ylKFPwlMJakM8iFU_iwAMIwATdHYox0G3U2rK2wmRB00GldPt6vb4vwX2Xg=s180-rw",
-        "appName": "ActionDirector Video Editor - Edit Videos Fast",
-        "homepage": "https://play.google.com/store/apps/details?id=com.cyberlink.actiondirector",
-        "packageName": "com.cyberlink.actiondirector",
-        "isPlayStoreAvailable": true
-    },
-    {
-        "appIconSrc": "https://lh3.googleusercontent.com/rcCCnwppWG3TNCXxMCUbk4pviTHHirziyfvZPPPvZONxTN1-2nOVMRO921_uK4KTf6ze=s180-rw",
-        "appName": "Dr.Web Security Space",
-        "homepage": "https://play.google.com/store/apps/details?id=com.drweb.pro",
-        "packageName": "com.drweb.pro",
-        "isPlayStoreAvailable": true
-    },
-    {
-        "appIconSrc": "https://lh3.googleusercontent.com/ZfKZlSBUSyrWni4pPEBNhmFVkafq7bw7vgDvmtuRU6XHL7o-lG95y0VM45af9nG_UKs=s180-rw",
-        "appName": "TextNow: Free Texting & Calling App",
-        "homepage": "https://play.google.com/store/apps/details?id=com.enflick.android.TextNow",
-        "packageName": "com.enflick.android.TextNow",
-        "isPlayStoreAvailable": true
-    },
-    {
-        "appIconSrc": "https://lh3.googleusercontent.com/QJObxznpklAxDNp0OVe3kAP5ZfUouIvRDO0kPj-V3MRjoRYKwj9RVTxOwG9yrlY-bgG3=s180-rw",
-        "appName": "Evernote - Notes Organizer & Daily Planner",
-        "homepage": "https://play.google.com/store/apps/details?id=com.evernote",
-        "packageName": "com.evernote",
-        "isPlayStoreAvailable": true
-    },
-    {
-        "appIconSrc": "https://lh3.googleusercontent.com/CLrkySjrKL5pCSIrBtSqcboIWNRAapl9ndIT5EbkvIhAPryxQonuQp_GUC4N3HHky50=s180-rw",
-        "appName": "apk-signer",
-        "homepage": "https://play.google.com/store/apps/details?id=com.haibison.apksigner",
-        "packageName": "com.haibison.apksigner",
-        "isPlayStoreAvailable": true
-    }
+  {
+    "appIconSrc": "https://insmac.org/uploads/posts/2017-09/1506022803_adguard.png",
+    "appName": "Adguard",
+    "homepage": "https://adguard.com/en/adguard-android/overview.html",
+    "packageName": "com.adguard.android",
+    "isPlayStoreAvailable": false
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/0WtsR4_NKcbftR5KvnlQ9YYpkBsfglEKhsvBbe-PSOgWkuDWIw2DIUnkmbuWy7DYFQ=s180-rw",
+    "appName": "AIDE- IDE for Android Java C++",
+    "homepage": "https://play.google.com/store/apps/details?id=com.aide.ui",
+    "packageName": "com.aide.ui",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/qnbLXlszRE615jbHgddyxPR2T42EixXA4ixzryVjJERxwhuC-ovkDJgd_4NQ3wQqqum3=s180-rw",
+    "appName": "AIDE Web - Html,Css,JavaScript",
+    "homepage": "https://play.google.com/store/apps/details?id=com.aide.web",
+    "packageName": "com.aide.web",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/F7oSfGBGwoThStddkF8I9gMj-we1frg0lF4TQAkQgiaHMC08xfRBelHXIdiPQFOI-3Fv=s180-rw",
+    "appName": "Avast Antivirus – Mobile Security & Virus Cleaner",
+    "homepage": "https://play.google.com/store/apps/details?id=com.avast.android.mobilesecurity",
+    "packageName": "com.avast.android.mobilesecurity",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/y-V2MnN6_BaHmuVk8pgUy3u_79OGOOuU1Lhy7vjBlMUqKGLDrr0rcchrTEhvz8IAwVA=s180-rw",
+    "appName": "SKETCHWARE - CREATE YOUR OWN APPS",
+    "homepage": "https://play.google.com/store/apps/details?id=com.besome.sketch",
+    "packageName": "com.besome.sketch",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/iJ4nhjiExeaowbVd8-rXfVafEa3HUykm_UGlAPc18H9wB5J9r4FiJDcmWBdnH3OCuw0d=s180-rw",
+    "appName": "Bitdefender Mobile Security & Antivirus",
+    "homepage": "https://play.google.com/store/apps/details?id=com.bitdefender.security",
+    "packageName": "com.bitdefender.security",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/48OtX7kJ0YYultztvdniOwe5pPaORQSRdEp91VokjCiF4idFkd7uoFjKCmEihmL7gUNp=s180-rw",
+    "appName": "Link2SD",
+    "homepage": "https://play.google.com/store/apps/details?id=com.buak.Link2SD",
+    "packageName": "com.buak.Link2SD",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/QeiFrTBHIxAFTfb0Qe71z8Z6dwc3BhEP0p0-Jcw6K-FTjw3LtB4Wh_XrTN0RpcNHCQ=s180-rw",
+    "appName": "Call Recorder - Cube ACR",
+    "homepage": "https://play.google.com/store/apps/details?id=com.catalinagroup.callrecorder",
+    "packageName": "com.catalinagroup.callrecorder",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://www.apklinker.com/wp-content/plugins/APKLinker/resize_img.php?u=https://www.apklinker.com/wp-content/uploads/2020/02/GravityBox.png&q=9&s=80",
+    "appName": "GravityBox Q",
+    "homepage": "https://forum.xda-developers.com/xposed/modules/app-gravitybox-v10-0-0-beta-1-android-10-t3974497",
+    "packageName": "com.ceco.q.gravitybox",
+    "isPlayStoreAvailable": false
+  },
+  {
+    "appIconSrc": "https://img.utdstc.com/icons/root-toolcase-android.png",
+    "appName": "Root ToolCase",
+    "homepage": "https://roottoolcase.cpu82.com/",
+    "packageName": "com.cpu82.roottoolcase",
+    "isPlayStoreAvailable": false
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/V3kXSN12ylKFPwlMJakM8iFU_iwAMIwATdHYox0G3U2rK2wmRB00GldPt6vb4vwX2Xg=s180-rw",
+    "appName": "ActionDirector Video Editor - Edit Videos Fast",
+    "homepage": "https://play.google.com/store/apps/details?id=com.cyberlink.actiondirector",
+    "packageName": "com.cyberlink.actiondirector",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/rcCCnwppWG3TNCXxMCUbk4pviTHHirziyfvZPPPvZONxTN1-2nOVMRO921_uK4KTf6ze=s180-rw",
+    "appName": "Dr.Web Security Space",
+    "homepage": "https://play.google.com/store/apps/details?id=com.drweb.pro",
+    "packageName": "com.drweb.pro",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/ZfKZlSBUSyrWni4pPEBNhmFVkafq7bw7vgDvmtuRU6XHL7o-lG95y0VM45af9nG_UKs=s180-rw",
+    "appName": "TextNow: Free Texting & Calling App",
+    "homepage": "https://play.google.com/store/apps/details?id=com.enflick.android.TextNow",
+    "packageName": "com.enflick.android.TextNow",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/QJObxznpklAxDNp0OVe3kAP5ZfUouIvRDO0kPj-V3MRjoRYKwj9RVTxOwG9yrlY-bgG3=s180-rw",
+    "appName": "Evernote - Notes Organizer & Daily Planner",
+    "homepage": "https://play.google.com/store/apps/details?id=com.evernote",
+    "packageName": "com.evernote",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/CLrkySjrKL5pCSIrBtSqcboIWNRAapl9ndIT5EbkvIhAPryxQonuQp_GUC4N3HHky50=s180-rw",
+    "appName": "apk-signer",
+    "homepage": "https://play.google.com/store/apps/details?id=com.haibison.apksigner",
+    "packageName": "com.haibison.apksigner",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/eWYNxjXiub6-HqtwoS2d4bl-NkqcKgOHansSnXXqje8-K9XLRwflOgEYwSzPMicdAA=s180-rw",
+    "appName": "CamScanner - Scanner to scan PDF",
+    "homepage": "https://play.google.com/store/apps/details?id=com.intsig.camscanner",
+    "packageName": "com.intsig.camscanner",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/JBniTFbcK30XtyHgjMzZGYPcxPAL2czN20hnMTPndD5gBdBSuvkLk4ybWIFyerT2SSE=s180-rw",
+    "appName": "X Messenger Ball",
+    "homepage": "https://play.google.com/store/apps/details?id=com.john.xmessengerball",
+    "packageName": "com.john.xmessengerball",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://cdn.apk-cloud.com/detail/image/com.john.mydayoffxposed-w130.webp",
+    "appName": "My Day Off for Messenger Xposed",
+    "homepage": "https://apk-dl.com/my-day-off-for-messenger-xposed/com.john.mydayoffxposed?r=1",
+    "packageName": "com.john.mydayoffxposed",
+    "isPlayStoreAvailable": false
+  },
+  {
+    "appIconSrc": "https://apkplz.net/storage/images/com/john/xmessengerprivacypremium/com.john.xmessengerprivacypremium_1.png",
+    "appName": "X Messenger Privacy Premium",
+    "homepage": "https://www.google.com/search?sclient=psy-ab&hl=en&site=&source=hp&q=X+Messenger+Privacy+Premium+2.8.2&btnG=Search",
+    "packageName": "com.john.xmessengerprivacypremium",
+    "isPlayStoreAvailable": false
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/n8Sm7DE327t6Z2efNIZ0SpXrfNLlC_2KeaK-Th9VmNhIYbAdMuyBx1mAfjSutn-kSnE=s180-rw",
+    "appName": "Global S Health - Donate",
+    "homepage": "https://play.google.com/store/apps/details?id=com.john.xposed.globalshealthdonate",
+    "packageName": "com.john.xposed.globalshealthdonate",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/cXSZM2AyPNMYTdXRofDCbWiEyr315UrjK613yZIQgIRx48_wG2Z6ux1Kzt7Rh58aUw=s180-rw",
+    "appName": "Rocket Music Player",
+    "homepage": "https://play.google.com/store/apps/details?id=com.jrtstudio.AnotherMusicPlayer",
+    "packageName": "com.jrtstudio.AnotherMusicPlayer",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/jSQxmUqXvXdggaOV73UNrb5JVS2j-jRMH8ZKnTxhcvfQmmPqKwJLUea6hkIAgPDfnlY=s180-rw",
+    "appName": "Floating Notes",
+    "homepage": "https://play.google.com/store/apps/details?id=com.jsvmsoft.stickynotes",
+    "packageName": "com.jsvmsoft.stickynotes",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/_BE8crOzToeDL1oxUIWX2GagEdRR-x6npp8qNgoyK3vBuV5e4q4JoSigj3rz7UgTMBZa=s180-rw",
+    "appName": "Titanium Backup ★ root needed",
+    "homepage": "https://play.google.com/store/apps/details?id=com.keramidas.TitaniumBackup",
+    "packageName": "com.keramidas.TitaniumBackup",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://image.winudf.com/v2/image1/Y29tLmtzbW9iaWxlLmxhdW5jaGVyX2ljb25fMTU3NTQ0ODkxMV8wMDk/icon.png?w=170&fakeurl=1",
+    "appName": "CM Launcher 3D - Themes, Wallpapers",
+    "homepage": "https://apkpure.com/cm-launcher-3d-themes-wallpapers/com.ksmobile.launcher",
+    "packageName": "com.ksmobile.launcher",
+    "isPlayStoreAvailable": false
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/kkd0TsVGQ0SFAM7T-SWQoQAhtZXFJlK1LRJBN6qisUeSQHnCBlWmP2ZhgOtPRGZ75hQ=s180-rw",
+    "appName": "X-plore File Manager",
+    "homepage": "https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore",
+    "packageName": "com.lonelycatgames.Xplore",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/4vCsonTrao9h2PqvQXM_cs1ingi319abzDNYWAMYj54Xp9WdEz-fGrNOuubONH0Rszem=s180-rw",
+    "appName": "Shortcutter - Quick Settings, Shortcuts & Widgets",
+    "homepage": "https://play.google.com/store/apps/details?id=com.leedroid.shortcutter",
+    "packageName": "com.leedroid.shortcutter",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/9JTqRjwwKknxlno58dyUULI2MTPNIPXypJzVDiBRmIkQ4JeenMUd3pjJAMSo9PKey_4=s180-rw",
+    "appName": "SuperBeam | WiFi Direct Share",
+    "homepage": "https://play.google.com/store/apps/details?id=com.majedev.superbeam",
+    "packageName": "com.majedev.superbeam",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/V_9TcMqdzjUGYyM69Zodh5XFFVDOkc4gN4to3Ws94AJXMso51e1PTKlyX31RJxMIKQ=s180-rw",
+    "appName": "[XPOSED] Bluetooth ToolKit",
+    "homepage": "https://play.google.com/store/apps/details?id=com.metris.xposed.bluetoothToolkitFree",
+    "packageName": "com.metris.xposed.bluetoothToolkitFree",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/Jk1J_6M3x8SFeisQRa4Q3pZCSFWWjBRevjAcCBpLrkBRD1NMcRjo6jQHUVUfbQunDBI=s180-rw",
+    "appName": "OfficeSuite Pro + PDF (Trial)",
+    "homepage": "https://play.google.com/store/apps/details?id=com.mobisystems.editor.office_with_reg",
+    "packageName": "com.mobisystems.editor.office_with_reg",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/D17gZhrvhTyMc68MPtR8sRMs9BBzi6XOhnxGgQDVrWmXCThKo9yFxVWO7HR359_by80=s180-rw",
+    "appName": "MX Player Pro",
+    "homepage": "http://mx.j2inter.com/download",
+    "packageName": "com.mxtech.videoplayer.pro",
+    "isPlayStoreAvailable": false
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/4o-0hXf9gPzXZO2e0KLM1xxCoSpqjIWbQw1tydaLxNIqJAgKTPAFYTlXXTnGlV9QjtE=s180-rw",
+    "appName": "n7player Music Player",
+    "homepage": "https://play.google.com/store/apps/details?id=com.n7mobile.nplayer",
+    "packageName": "com.n7mobile.nplayer",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/kAMA6xN79J1nWeuJETM3isMGT30Mp0Fa1ps_T8Ws_ouEgeN0E_hXP3hyKjxQJCd00g=s180-rw",
+    "appName": "Toaster Cast DLNA UPnP Player",
+    "homepage": "https://play.google.com/store/apps/details?id=com.n7mobile.simpleupnpplayer",
+    "packageName": "com.n7mobile.simpleupnpplayer",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/egACrFgE54jBPjyw1XmC5c43ILWdDekB0Gt14EbmQy0-98E_VqBAgLzrb9UZWoBl-g=s180-rw",
+    "appName": "Vault - Hide Pics & Videos, App Lock, Free Backup",
+    "homepage": "https://play.google.com/store/apps/details?id=com.netqin.ps",
+    "packageName": "com.netqin.ps",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/w261De9ZkHSxBGYcdFXG9BySiK2ugwMb7ReGh_AfN7UUSefB3ja_wPVtP91aewaKoKO0=s180-rw",
+    "appName": "Greenify",
+    "homepage": "https://play.google.com/store/apps/details?id=com.oasisfeng.greenify",
+    "packageName": "com.oasisfeng.greenify",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/u9o17JyCxjqZIFWIPeWm-kQb7lB5BG6K-5z60pP8LqPEFbdXYdn-lMyTLbdry_DCMyY=s180-rw",
+    "appName": "Octopus - Gamepad, Mouse, Keyboard Keymapper",
+    "homepage": "https://play.google.com/store/apps/details?id=com.chaozhuo.gameassistant",
+    "packageName": "com.chaozhuo.gameassistant",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/AcCcCKIcJ6bM2Sw25OfcF7vnbU5taMh3p-xNvM2BgMuc82LEYtw3tWaQfpsiTr5o_Ig=s180-rw",
+    "appName": "OH Web Browser - One handed, Fast & Privacy",
+    "homepage": "https://play.google.com/store/apps/details?id=com.oh.bro",
+    "packageName": "com.oh.bro",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/ijOaK-b2_9gFFW6m-chssjA7vAbNGDlANz5p6_ZYEI7hxgAYtXWjt641sqHIs6D0nH8=s180-rw",
+    "appName": "exFAT/NTFS for USB by Paragon Software",
+    "homepage": "https://play.google.com/store/apps/details?id=com.paragon.tcplugins_ntfs_ro",
+    "packageName": "com.paragon.tcplugins_ntfs_ro",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/lH8Sb8ih0YqVs-86ndmmLMJfxit5p54UnerpA-Ga91v9WT6zwAc10rC5VMhjO0fkZw=s180-rw",
+    "appName": "CnX Player - Powerful 4K UHD Player - Cast to TV",
+    "homepage": "https://play.google.com/store/apps/details?id=com.pathwin.cnxplayer",
+    "packageName": "com.pathwin.cnxplayer",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://image.winudf.com/v2/user/admin/YWRtaW5fc25hcHR1YmVpY29uLnBuZ18xNTgyNDcyOTgyMTA2/icon.png?w=170&fakeurl=1",
+    "appName": "Snaptube - YouTube Downloader and MP3 Converter",
+    "homepage": "https://apkpure.com/snaptube/com.snaptube.premium",
+    "packageName": "com.snaptube.premium",
+    "isPlayStoreAvailable": false
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/-ilzcKEaaCLVX6p46B49YrOVHFDMHuZAofb3n6BYvD2VYwWon6r08-IsO65V-xQ3Or4=s180-rw",
+    "appName": "Norton Mobile Security - Antivirus & Anti-Malware",
+    "homepage": "https://play.google.com/store/apps/details?id=com.symantec.mobilesecurity",
+    "packageName": "com.symantec.mobilesecurity",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/7zR3sBylCNj_N6LYfi0EfJOBsMbEqA2Z22yKHSiaOd8DzoHt7eUGG-Hmp4hrodXyjSM=s180-rw",
+    "appName": "Sync.ME - Caller ID, Spam Call Blocker & Contacts",
+    "homepage": "https://play.google.com/store/apps/details?id=com.syncme.syncmeapp",
+    "packageName": "com.syncme.syncmeapp",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/Mhq_eExy2fEIhfJAINXwLvbHppNO6atEZVzS5jGoTXx5dYZsW1UEWtSO8x4aebOPC-U=s180-rw",
+    "appName": "Control Center IOS 13 - Control Center",
+    "homepage": "https://play.google.com/store/apps/details?id=com.assistivetouch.controlcenter",
+    "packageName": "com.assistivetouch.controlcenter",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/sNksZMqQnAIGXbrEq-Nq27Z3oy5gHkF_1ZxS3LPAMJ9WyBN4SpyVRI_YCz3vNzWiN2o=s180-rw",
+    "appName": "Assistive Touch 2020",
+    "homepage": "https://play.google.com/store/apps/details?id=com.team.assistivetouch.easytouch",
+    "packageName": "com.team.assistivetouch.easytouch",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/bG17NtlMqjaGYjLb31IH1Y-nnHKzEa6DgqOXs3Wq4tj52XcsZEFE2-o2pHV8Qp7e9-0=s180-rw",
+    "appName": "Nova Launcher",
+    "homepage": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+    "packageName": "com.teslacoilsw.launcher",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/3FD2QTJtyyUCXIgk8yOfnzocc8zl_Jsl9zHYdMz9OxKLqCPTu5IcEp0GX7f2xMU-jztQ=s180-rw",
+    "appName": "Navigation Gestures - Swipe Gesture Controls!",
+    "homepage": "https://play.google.com/store/apps/details?id=com.xda.nobar",
+    "packageName": "com.xda.nobar",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/Nr83vk6CB56ib2VFyuCROwWIhiKpJBozTTWXzVm7dQi6YziCkiM8ZOqo57TJv0oFOhna=s180-rw",
+    "appName": "XPrivacyLua Pro",
+    "homepage": "https://play.google.com/store/apps/details?id=eu.faircode.xlua.pro",
+    "packageName": "eu.faircode.xlua.pro",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/Fztt-ScG9kINmSNKwdFhn1HgBbCqTXHZsW0LwS4JiatLQIZ7PNNwCJq3GEGqbrPqDg=s180-rw",
+    "appName": "Hotspot Shield Free VPN Proxy & Secure VPN",
+    "homepage": "https://play.google.com/store/apps/details?id=hotspotshield.android.vpn",
+    "packageName": "hotspotshield.android.vpn",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/ZXPPROZdiTiW4vxmDaoj3wDFUvYYWed5rdWLlGcMzDFz8KvS9atjsK_w35Wimw7bww=s180-rw",
+    "appName": "Helakuru - One Country. One App. 🇱🇰",
+    "homepage": "https://play.google.com/store/apps/details?id=lk.bhasha.helakuru",
+    "packageName": "lk.bhasha.helakuru",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/Z32CI1HB_7uGRIyKhKGd6rt9jLBzRxFasowSEzUt0kGJJeFUYeKChxti4x8USm4xAg=s180-rw",
+    "appName": "Tasker",
+    "homepage": "https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm",
+    "packageName": "net.dinglisch.android.taskerm",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/dovBChfktu79nG5AiqWrqRScCSncVre78x6xzOswcsV88mx4h1PkrU1fc1RKDhc5jPON=s180-rw",
+    "appName": "FX File Explorer: the file manager with privacy",
+    "homepage": "https://play.google.com/store/apps/details?id=nextapp.fx",
+    "packageName": "nextapp.fx",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/PBsPiT8Wo7NbovMx5udLlxzhxAbBkz82CbSMS7yaENWuHCuDXwftK0p48yxLmm3osm0=s180-rw",
+    "appName": "Sesame - Universal Search and Shortcuts",
+    "homepage": "https://play.google.com/store/apps/details?id=ninja.sesame.app.edge",
+    "packageName": "ninja.sesame.app.edge",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/vsobopywqjUrYNUGlLwP-3jwdGGQEVZjYW9mGnsIpv2PF0DQHXp9IksG7AJe8t38_Yo=s180-rw",
+    "appName": "Aqua Mail- Email app for Any Email",
+    "homepage": "https://play.google.com/store/apps/details?id=org.kman.AquaMail",
+    "packageName": "org.kman.AquaMail",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/4I0r92jtWwSNfz6S9eZIS-D3Q4o2ODBw3NCvx50ctS11Tv4iY5UmhjqMJ2hePgjHYWY=s180-rw",
+    "appName": "KWGT Kustom Widget Maker",
+    "homepage": "https://play.google.com/store/apps/details?id=org.kustom.widget",
+    "packageName": "org.kustom.widget",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/OHNUKIyXs6AZjMpqaNel1Ulmm1UeYLfY8c-vdfNuF7mhJiVf1ZIdokxVgDWlJJGyTl8=s180-rw",
+    "appName": "Malwarebytes Security: Virus Cleaner, Anti-Malware",
+    "homepage": "https://play.google.com/store/apps/details?id=org.malwarebytes.antimalware",
+    "packageName": "org.malwarebytes.antimalware",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/jmZVmRv9aznINxRTdolwOGkOHmqt6q_ZSVF0zPA-c5ykD7VSg3vyQbz7ow7wBT9LPxPY=s180-rw",
+    "appName": "App Ops - Permission manager",
+    "homepage": "https://play.google.com/store/apps/details?id=rikka.appops",
+    "packageName": "rikka.appops",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/vbOFj1KEY_KogRrcpZ4Y1o67Pj-Z4GqENPoFjdPbLtzruXYpo5JRpZFHpwQdP33301A=s180-rw",
+    "appName": "KSWEB: server + PHP + MySQL",
+    "homepage": "https://play.google.com/store/apps/details?id=ru.kslabs.ksweb",
+    "packageName": "ru.kslabs.ksweb",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/Cri2C-k2gj-9f3GJ8ZD_30k2E5BHpadTAdBb7nzwvjqW22BvmanfFcMC9wRc74aDrqw=s180-rw",
+    "appName": "SkillTwins: Soccer Game - Soccer Skills",
+    "homepage": "https://play.google.com/store/apps/details?id=se.hellothere.skilltwinsfootballgame2",
+    "packageName": "se.hellothere.skilltwinsfootballgame2",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://data.apkshub.com/91/software.solarwarez.xmiui/0.2.1.1/icon.png",
+    "appName": "xMIUI",
+    "homepage": "https://www.apkshub.com/app/software.solarwarez.xmiui",
+    "packageName": "ru.kslabs.ksweb",
+    "isPlayStoreAvailable": false
+  }
 ]
