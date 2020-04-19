@@ -137,7 +137,7 @@
     "appName": "Global S Health - Donate",
     "homepage": "https://www.google.com/search?sclient=psy-ab&hl=en&site=&source=hp&q=Global+S+Health+-+Donate&btnG=Search",
     "packageName": "com.john.xposed.globalshealthdonate",
-    "isPlayStoreAvailable": true
+    "isPlayStoreAvailable": false
   },
   {
     "appIconSrc": "https://lh3.googleusercontent.com/cXSZM2AyPNMYTdXRofDCbWiEyr315UrjK613yZIQgIRx48_wG2Z6ux1Kzt7Rh58aUw=s180-rw",
