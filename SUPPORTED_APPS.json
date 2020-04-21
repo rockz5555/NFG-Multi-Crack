@@ -406,6 +406,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://lh3.googleusercontent.com/GiyPnRhtg1SI4hwfG7JmvgsWZ_M1BPZ0JZnESaKygH2adXW31Uk27BT1HnIIqwFiFSY=s180-rw",
+    "appName": "Swift Backup",
+    "homepage": "https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup",
+    "packageName": "org.swiftapps.swiftbackup",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/jmZVmRv9aznINxRTdolwOGkOHmqt6q_ZSVF0zPA-c5ykD7VSg3vyQbz7ow7wBT9LPxPY=s180-rw",
     "appName": "App Ops - Permission manager",
     "homepage": "https://play.google.com/store/apps/details?id=rikka.appops",
