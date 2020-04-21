@@ -63,6 +63,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://lh3.googleusercontent.com/zHmsSkhwn5Yz6LA2UtsdPkqfoepRQAKuDCM2UwT2IbSO9oGGtSv0b0dEeXGjdqZJtNg=s180-rw",
+    "appName": "Ice Box - Apps freezer",
+    "homepage": "https://play.google.com/store/apps/details?id=com.catchingnow.icebox",
+    "packageName": "com.catchingnow.icebox",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://www.apklinker.com/wp-content/plugins/APKLinker/resize_img.php?u=https://www.apklinker.com/wp-content/uploads/2020/02/GravityBox.png&q=9&s=80",
     "appName": "GravityBox Q",
     "homepage": "https://forum.xda-developers.com/xposed/modules/app-gravitybox-v10-0-0-beta-1-android-10-t3974497",
