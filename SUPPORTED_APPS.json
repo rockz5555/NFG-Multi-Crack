@@ -378,6 +378,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://lh3.googleusercontent.com/CTqc1bZ8SOOj9IjVWNIvl8K8W7bKiWaU_3oRtnqC_jmZvHVfHkaAR9FM6V0xPtm78xwh=s180-rw",
+    "appName": "Hola VPN Proxy Plus",
+    "homepage": "https://play.google.com/store/apps/details?id=org.hola.prem",
+    "packageName": "org.hola.prem",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/vsobopywqjUrYNUGlLwP-3jwdGGQEVZjYW9mGnsIpv2PF0DQHXp9IksG7AJe8t38_Yo=s180-rw",
     "appName": "Aqua Mail- Email app for Any Email",
     "homepage": "https://play.google.com/store/apps/details?id=org.kman.AquaMail",
