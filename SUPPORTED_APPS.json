@@ -133,6 +133,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://lh3.googleusercontent.com/9vtEyxpt8cKPfPZJVqdV-Xmxh3wwFH_VVImoWsZvQWjBZeOI5JNfta2r4rELpV9-SQ4=s180-rw",
+    "appName": "FDE.AI [root]",
+    "homepage": "https://play.google.com/store/apps/details?id=com.feravolt.fdeai",
+    "packageName": "com.feravolt.fdeai",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/CLrkySjrKL5pCSIrBtSqcboIWNRAapl9ndIT5EbkvIhAPryxQonuQp_GUC4N3HHky50=s180-rw",
     "appName": "apk-signer",
     "homepage": "https://play.google.com/store/apps/details?id=com.haibison.apksigner",
