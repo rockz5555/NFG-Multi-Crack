@@ -28,6 +28,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://lh3.googleusercontent.com/68LArgPpNESP4WPIGFJ5Ci3T-NzccOBJGId-rYYd5MgIygFxEzcVkf9Bmb6xlO6ZP-Q=s180-rw",
+    "appName": "Material Icon Maker",
+    "homepage": "https://play.google.com/store/apps/details?id=com.arunsoft.icon",
+    "packageName": "com.arunsoft.icon",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/F7oSfGBGwoThStddkF8I9gMj-we1frg0lF4TQAkQgiaHMC08xfRBelHXIdiPQFOI-3Fv=s180-rw",
     "appName": "Avast Antivirus – Mobile Security & Virus Cleaner",
     "homepage": "https://play.google.com/store/apps/details?id=com.avast.android.mobilesecurity",
