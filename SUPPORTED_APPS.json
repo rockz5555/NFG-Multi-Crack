@@ -84,6 +84,13 @@
     "isPlayStoreAvailable": false
   },
   {
+    "appIconSrc": "https://lh3.googleusercontent.com/u9o17JyCxjqZIFWIPeWm-kQb7lB5BG6K-5z60pP8LqPEFbdXYdn-lMyTLbdry_DCMyY=s180-rw",
+    "appName": "Octopus - Gamepad, Mouse, Keyboard Keymapper",
+    "homepage": "https://play.google.com/store/apps/details?id=com.chaozhuo.gameassistant",
+    "packageName": "com.chaozhuo.gameassistant",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://img.utdstc.com/icons/root-toolcase-android.png",
     "appName": "Root ToolCase",
     "homepage": "https://roottoolcase.cpu82.com/",
@@ -285,14 +292,7 @@
     "homepage": "https://play.google.com/store/apps/details?id=com.oasisfeng.greenify",
     "packageName": "com.oasisfeng.greenify",
     "isPlayStoreAvailable": true
-  },
-  {
-    "appIconSrc": "https://lh3.googleusercontent.com/u9o17JyCxjqZIFWIPeWm-kQb7lB5BG6K-5z60pP8LqPEFbdXYdn-lMyTLbdry_DCMyY=s180-rw",
-    "appName": "Octopus - Gamepad, Mouse, Keyboard Keymapper",
-    "homepage": "https://play.google.com/store/apps/details?id=com.chaozhuo.gameassistant",
-    "packageName": "com.chaozhuo.gameassistant",
-    "isPlayStoreAvailable": true
-  },
+  },  
   {
     "appIconSrc": "https://lh3.googleusercontent.com/AcCcCKIcJ6bM2Sw25OfcF7vnbU5taMh3p-xNvM2BgMuc82LEYtw3tWaQfpsiTr5o_Ig=s180-rw",
     "appName": "OH Web Browser - One handed, Fast & Privacy",
