@@ -1,1 +1,4 @@
-{"version_code":123,"content": "<p>New version has been found ✌</p><p><b>Latest Version:</b> 1.2.3</p><p></p><p>***** Changelog *****</p><p><i><b>Fixes:</b></i></p><li>Icon hide</li><p><i><b>Improvements & Others:</b></i></p><li>Hook engine improvements</li><li>UX improvements</li>"}
+{
+  "version_code": 124,
+  "content": "<p>New version has been found ✌</p><p><b>Latest Version:</b> 1.2.4</p><p></p><p>***** Changelog *****</p><p><i><b>So bored to type. Download and see people ✌</b></i></p>"
+}
