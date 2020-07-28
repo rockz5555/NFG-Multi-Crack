@@ -1,4 +1,5 @@
 {
-  "version_code": 126,
-  "content": "<p>New version has been found ✌</p><p><b>Latest Version:</b> 1.2.6</p><p></p><p>***** Changelog *****</p><p><i><b>So bored to type. Download and see people ✌</b></i></p>"
+  "version_code": 127,
+  "content": "<p>New version has been released ✌</p><p><b>Latest Version:</b> 1.2.7</p><p></p><p>***** Changelog *****</p><p><i><b>Fixes:</b></i></p><li>Anti NFG Detection</li><li>Notification for Oreo + devices</li><p><i><b>Improvements & Others:</b></i></p><li>Hook engine improvements</li><li>UI / UX improvements</li>
+<li>Performance improvements</li>"
 }
