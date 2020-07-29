@@ -14,20 +14,6 @@
     "isPlayStoreAvailable": false
   },
   {
-    "appIconSrc": "https://lh3.googleusercontent.com/0WtsR4_NKcbftR5KvnlQ9YYpkBsfglEKhsvBbe-PSOgWkuDWIw2DIUnkmbuWy7DYFQ=s180-rw",
-    "appName": "AIDE- IDE for Android Java C++",
-    "homepage": "https://play.google.com/store/apps/details?id=com.aide.ui",
-    "packageName": "com.aide.ui",
-    "isPlayStoreAvailable": true
-  },
-  {
-    "appIconSrc": "https://lh3.googleusercontent.com/qnbLXlszRE615jbHgddyxPR2T42EixXA4ixzryVjJERxwhuC-ovkDJgd_4NQ3wQqqum3=s180-rw",
-    "appName": "AIDE Web - Html,Css,JavaScript",
-    "homepage": "https://play.google.com/store/apps/details?id=com.aide.web",
-    "packageName": "com.aide.web",
-    "isPlayStoreAvailable": true
-  },
-  {
     "appIconSrc": "https://lh3.googleusercontent.com/68LArgPpNESP4WPIGFJ5Ci3T-NzccOBJGId-rYYd5MgIygFxEzcVkf9Bmb6xlO6ZP-Q=s180-rw",
     "appName": "Material Icon Maker",
     "homepage": "https://play.google.com/store/apps/details?id=com.arunsoft.icon",
@@ -361,6 +347,13 @@
     "appName": "Navigation Gestures - Swipe Gesture Controls!",
     "homepage": "https://play.google.com/store/apps/details?id=com.xda.nobar",
     "packageName": "com.xda.nobar",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/LGMnS6aiFUxTLMlDQ4VYaJG0V2lY3lr_ru9QZ3OiCp-YZlsCz3F_v0oWQnqrN-giBA=s180-rw",
+    "appName": "AFWall+ (Android Firewall +)",
+    "homepage": "https://play.google.com/store/apps/details?id=dev.ukanth.ufirewall",
+    "packageName": "dev.ukanth.ufirewall",
     "isPlayStoreAvailable": true
   },
   {
