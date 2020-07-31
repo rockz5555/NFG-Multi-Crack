@@ -126,10 +126,24 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://lh3.googleusercontent.com/gfU2tXp7IEdB9A06y-VKIARF-UrREIROMQJxpivCdFqnQ2l5AzUvEdgwmk_L8zwz4_U=s180-rw",
+    "appName": "HTTP Injector - (SSH/Proxy/VPN)",
+    "homepage": "https://play.google.com/store/apps/details?id=com.evozi.injector",
+    "packageName": "com.evozi.injector",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/9vtEyxpt8cKPfPZJVqdV-Xmxh3wwFH_VVImoWsZvQWjBZeOI5JNfta2r4rELpV9-SQ4=s180-rw",
     "appName": "FDE.AI [root]",
     "homepage": "https://play.google.com/store/apps/details?id=com.feravolt.fdeai",
     "packageName": "com.feravolt.fdeai",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/pI3LR0ZqEETHoBK0TcG9F3DfQfw9L9JvBbe7BQoc_K4vR-2_mTuOQbD-Qa3vEM7RxnQ=s180-rw",
+    "appName": "HttpCanary — HTTP Sniffer/Capture/Analysis",
+    "homepage": "https://play.google.com/store/apps/details?id=com.guoshi.httpcanary",
+    "packageName": "com.guoshi.httpcanary",
     "isPlayStoreAvailable": true
   },
   {
