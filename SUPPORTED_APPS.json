@@ -161,13 +161,6 @@
     "isPlayStoreAvailable": true
   },
   {
-    "appIconSrc": "https://lh3.googleusercontent.com/CLrkySjrKL5pCSIrBtSqcboIWNRAapl9ndIT5EbkvIhAPryxQonuQp_GUC4N3HHky50=s180-rw",
-    "appName": "apk-signer",
-    "homepage": "https://play.google.com/store/apps/details?id=com.haibison.apksigner",
-    "packageName": "com.haibison.apksigner",
-    "isPlayStoreAvailable": true
-  },
-  {
     "appIconSrc": "https://lh3.googleusercontent.com/2TZOs3yHFM8mRLJHbjeCLfxhX_Kib1td6OgZMmF0PNlIE0LGwEUAWnR9vUnDLxQfK7fl=s180-rw",
     "appName": "AZ Screen Recorder - Video Recorder, Livestream",
     "homepage": "https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free",
