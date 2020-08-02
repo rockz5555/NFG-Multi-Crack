@@ -364,6 +364,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://img.apksum.com/4a/com.vmos.lit/1.0.02/icon.png",
+    "appName": "VMOS Pro",
+    "homepage": "https://www.vmos.com",
+    "packageName": "com.vmos.gbi",
+    "isPlayStoreAvailable": false
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/3FD2QTJtyyUCXIgk8yOfnzocc8zl_Jsl9zHYdMz9OxKLqCPTu5IcEp0GX7f2xMU-jztQ=s180-rw",
     "appName": "Navigation Gestures - Swipe Gesture Controls!",
     "homepage": "https://play.google.com/store/apps/details?id=com.xda.nobar",
