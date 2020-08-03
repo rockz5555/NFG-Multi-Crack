@@ -1,4 +1,4 @@
 {
-  "version_code": 128,
-  "content": "<p>New version has been released ✌</p><p><b>Latest Version:</b> 1.2.8</p><p></p><p>***** Changelog *****</p><p><i><b>Improvements & Others:</b></i></p><li>Hook engine improvements</li><li>Direct download new versions from the app</li><li>UI / UX improvements</li><li>Performance improvements</li>"
+  "version_code": 129,
+  "content": "<p>New version has been released ✌</p><p><b>Latest Version:</b> 1.2.9</p><p></p><p>***** Changelog *****</p><p><i><b>Improvements & Others:</b></i></p><li>Now you can change milliseconds from the main screen by long pressing the app icon</i><li>Performance improvement</li><li>Various bug fixing</li>"
 }
