@@ -287,6 +287,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://lh3.googleusercontent.com/_tBnS0ZOKjgqhnBYoukONfuD9MBaETGIEB01codMiKnxoJSt8oEFZ_lQcrRSlLIcggk=s180-rw",
+    "appName": "KineMaster - Video Editor, Video Maker",
+    "homepage": "https://play.google.com/store/apps/details?id=com.nexstreaming.app.kinemasterfree",
+    "packageName": "com.nexstreaming.app.kinemasterfree",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/w261De9ZkHSxBGYcdFXG9BySiK2ugwMb7ReGh_AfN7UUSefB3ja_wPVtP91aewaKoKO0=s180-rw",
     "appName": "Greenify",
     "homepage": "https://play.google.com/store/apps/details?id=com.oasisfeng.greenify",
