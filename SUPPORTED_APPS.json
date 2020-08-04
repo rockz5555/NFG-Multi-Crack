@@ -105,6 +105,41 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://lh3.googleusercontent.com/v1ihVfiMDyXoU8IhlB9mqtqN7_3EEnjw3n0dcB9v9e56XAY9zuhNWkfP5zmk9zGUO-M=s180-rw",
+    "appName": "OS Monitor: Tasks Monitor",
+    "homepage": "https://play.google.com/store/apps/details?id=com.ddm.activity",
+    "packageName": "com.ddm.activity",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/R-R-R1bNmDZgrJt7ArQAu_YhPK-GldHFq3WKNHVZE3UbfqWSpFvxa78w4NSgi9NXDyY=s180-rw",
+    "appName": "BlockaNet: Free Proxy List",
+    "homepage": "https://play.google.com/store/apps/details?id=com.ddm.blocknet",
+    "packageName": "com.ddm.blocknet",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/TRViimi-sFBezGpQXG4_G2Ksw2WExJxQ2J2u3XYVIXRC3M3x57Q3MgAj-FYW_c4BRak=s180-rw",
+    "appName": "IP Tools: WiFi Analyzer",
+    "homepage": "https://play.google.com/store/apps/details?id=com.ddm.iptools",
+    "packageName": "com.ddm.iptools",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/K-8_kgOEL5MBn-WukRpGrVWvRV5rdLGBr4Q3tIphKMlY3NJh_V8xjrZdBsbDhfgIHtuT=s180-rw",
+    "appName": "IP Tools: Network Scanner",
+    "homepage": "https://play.google.com/store/apps/details?id=com.ddm.iptoolslight",
+    "packageName": "com.ddm.iptoolslight",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/NxDIdBgF_F-R3zn6h7NVMIAa72eCrvsAC0B0ZyOU7zpkyIFF5FhW9JYsviHSHy52WAI=s180-rw",
+    "appName": "Qute: Command Console & Terminal Emulator",
+    "homepage": "https://play.google.com/store/apps/details?id=com.ddm.qute",
+    "packageName": "com.ddm.qute",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/rcCCnwppWG3TNCXxMCUbk4pviTHHirziyfvZPPPvZONxTN1-2nOVMRO921_uK4KTf6ze=s180-rw",
     "appName": "Dr.Web Security Space",
     "homepage": "https://play.google.com/store/apps/details?id=com.drweb.pro",
@@ -495,5 +530,12 @@
     "homepage": "https://www.apkshub.com/app/software.solarwarez.xmiui",
     "packageName": "software.solarwarez.xmiui",
     "isPlayStoreAvailable": false
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/ve2bib6KeXuPUhuUsN8k1XMNauXtvJ3IwhWxPsnLWwRc_9f1BVgrTkn3AusXBNiAFr0=s180-rw",
+    "appName": "Web Tools: FTP, SSH, HTTP",
+    "homepage": "https://play.google.com/store/apps/details?id=webtools.ddm.com.webtools",
+    "packageName": "webtools.ddm.com.webtools",
+    "isPlayStoreAvailable": true
   }
 ]
