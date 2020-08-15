@@ -504,13 +504,6 @@
     "isPlayStoreAvailable": true
   },
   {
-    "appIconSrc": "https://lh3.googleusercontent.com/jmZVmRv9aznINxRTdolwOGkOHmqt6q_ZSVF0zPA-c5ykD7VSg3vyQbz7ow7wBT9LPxPY=s180-rw",
-    "appName": "App Ops - Permission manager",
-    "homepage": "https://play.google.com/store/apps/details?id=rikka.appops",
-    "packageName": "rikka.appops",
-    "isPlayStoreAvailable": true
-  },
-  {
     "appIconSrc": "https://lh3.googleusercontent.com/vbOFj1KEY_KogRrcpZ4Y1o67Pj-Z4GqENPoFjdPbLtzruXYpo5JRpZFHpwQdP33301A=s180-rw",
     "appName": "KSWEB: server + PHP + MySQL",
     "homepage": "https://play.google.com/store/apps/details?id=ru.kslabs.ksweb",
