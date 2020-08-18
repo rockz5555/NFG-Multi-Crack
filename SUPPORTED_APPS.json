@@ -406,6 +406,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://lh3.googleusercontent.com/y52_-x0o7vFyg0LDT8RTOC6p3c6cZeeO7NpoGhsTcbWQag1hxGHAH9c7oo8NP0RjBxg=s180-rw",
+    "appName": "Autosync - Universal cloud sync and backup",
+    "homepage": "https://play.google.com/store/apps/details?id=com.ttxapps.autosync",
+    "packageName": "com.ttxapps.autosync",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://img.apksum.com/4a/com.vmos.lit/1.0.02/icon.png",
     "appName": "VMOS Pro",
     "homepage": "https://www.vmos.com",
