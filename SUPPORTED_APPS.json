@@ -441,6 +441,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://lh3.googleusercontent.com/WU6aw6d-9RKjs3SHWW8F_TByZ52geqW2JRStwC22-16tljOeK8ng4-zPX0NAP3PpdJo=s180-rw",
+    "appName": "Associative Swipe (Home button)",
+    "homepage": "https://play.google.com/store/apps/details?id=io.github.neomsoft.associativeswipe",
+    "packageName": "io.github.neomsoft.associativeswipe",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/ZXPPROZdiTiW4vxmDaoj3wDFUvYYWed5rdWLlGcMzDFz8KvS9atjsK_w35Wimw7bww=s180-rw",
     "appName": "Helakuru - One Country. One App. 🇱🇰",
     "homepage": "https://play.google.com/store/apps/details?id=lk.bhasha.helakuru",
