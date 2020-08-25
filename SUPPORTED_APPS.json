@@ -334,7 +334,7 @@
     "homepage": "https://play.google.com/store/apps/details?id=com.oasisfeng.greenify",
     "packageName": "com.oasisfeng.greenify",
     "isPlayStoreAvailable": true
-  },  
+  },
   {
     "appIconSrc": "https://lh3.googleusercontent.com/AcCcCKIcJ6bM2Sw25OfcF7vnbU5taMh3p-xNvM2BgMuc82LEYtw3tWaQfpsiTr5o_Ig=s180-rw",
     "appName": "OH Web Browser - One handed, Fast & Privacy",
@@ -459,6 +459,13 @@
     "appName": "Tasker",
     "homepage": "https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm",
     "packageName": "net.dinglisch.android.taskerm",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/HfPl1Waf7wptF7IT_CY9Ilg0Ifi-U8tyLaQR8zSCDZGbJpvtmhbRQLEujYLI-1fUOUs=s180-rw",
+    "appName": "AppSales: Paid Apps Gone Free & On Sale",
+    "homepage": "https://play.google.com/store/apps/details?id=net.tsapps.appsales",
+    "packageName": "net.tsapps.appsales",
     "isPlayStoreAvailable": true
   },
   {
