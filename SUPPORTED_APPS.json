@@ -441,6 +441,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://play-lh.googleusercontent.com/_CeHodp7UbckX3rmZKrdKXINt2DAszMRJEL3x33dPCJLzcRFlcYOvDu0qq9hDGE7PQ=s180-rw",
+    "appName": "IDM+: Music, Video, Torrent Downloader",
+    "homepage": "https://play.google.com/store/apps/details?id=idm.internet.download.manager.plus",
+    "packageName": "idm.internet.download.manager.plus",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/WU6aw6d-9RKjs3SHWW8F_TByZ52geqW2JRStwC22-16tljOeK8ng4-zPX0NAP3PpdJo=s180-rw",
     "appName": "Associative Swipe (Home button)",
     "homepage": "https://play.google.com/store/apps/details?id=io.github.neomsoft.associativeswipe",
