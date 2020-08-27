@@ -140,6 +140,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://play-lh.googleusercontent.com/DqAKT8mJJWAQMzPuNTFL1CyhwVJkCEfQlv8CGlh7tNLPe81h92T-SwWG6UQLXydpEBNz=s180-rw",
+    "appName": "Wallet - Money, Budget, Finance & Expense Tracker",
+    "homepage": "https://play.google.com/store/apps/details?id=com.droid4you.application.wallet",
+    "packageName": "com.droid4you.application.wallet",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/rcCCnwppWG3TNCXxMCUbk4pviTHHirziyfvZPPPvZONxTN1-2nOVMRO921_uK4KTf6ze=s180-rw",
     "appName": "Dr.Web Security Space",
     "homepage": "https://play.google.com/store/apps/details?id=com.drweb.pro",
