@@ -7,6 +7,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://lh3.googleusercontent.com/7-CBOICJrtltP-Ndzq-c8Vugt1FTsy2vw-SZUZ5ov0BY7XgDrVeltTwtyhjVbxh943M=s180-rw",
+    "appName": "WPS Office - Free Office Suite for Word,PDF,Excel",
+    "homepage": "https://play.google.com/store/apps/details?id=cn.wps.moffice_eng",
+    "packageName": "cn.wps.moffice_eng",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://insmac.org/uploads/posts/2017-09/1506022803_adguard.png",
     "appName": "Adguard",
     "homepage": "https://adguard.com/en/adguard-android/overview.html",
