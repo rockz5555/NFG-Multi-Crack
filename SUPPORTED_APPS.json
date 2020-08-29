@@ -364,6 +364,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://play-lh.googleusercontent.com/Rj-xXVWUsnq3TPxIxiUnsQ9SPW2REg2VI60bopvTPGzc67nQiVkvT5lpdfi_lkWNCw=s180-rw",
+    "appName": "Tapatalk - 200,000+ Forums",
+    "homepage": "https://play.google.com/store/apps/details?id=com.quoord.tapatalkpro.activity",
+    "packageName": "com.quoord.tapatalkpro.activity",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/SnSjdJ1QIvTnTRIFIVahONxi6vbDfK0cCpc7PdMORjlJMbxmuNLicJPsnclxA_4rrPGt=s180-rw",
     "appName": "Translate On Screen",
     "homepage": "https://play.google.com/store/apps/details?id=com.recognize_text.translate.screen",
