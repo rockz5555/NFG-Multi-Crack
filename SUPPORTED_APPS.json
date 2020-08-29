@@ -371,6 +371,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://lh3.googleusercontent.com/ZNJRTw4J0vOyEJPGe2-mdJaXC3o9wcf4M7wvkcytJ9IUZh514z4oDPn2Znw845CTnOE=s180-rw",
+    "appName": "QuickEdit Text Editor Pro - Writer & Code Editor",
+    "homepage": "https://play.google.com/store/apps/details?id=com.rhmsoft.edit.pro",
+    "packageName": "com.rhmsoft.edit.pro",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://image.winudf.com/v2/user/admin/YWRtaW5fc25hcHR1YmVpY29uLnBuZ18xNTgyNDcyOTgyMTA2/icon.png?w=170&fakeurl=1",
     "appName": "Snaptube - YouTube Downloader and MP3 Converter",
     "homepage": "https://apkpure.com/snaptube/com.snaptube.premium",
