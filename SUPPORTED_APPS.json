@@ -385,10 +385,10 @@
     "isPlayStoreAvailable": true
   },
   {
-    "appIconSrc": "https://lh3.googleusercontent.com/K0vSHFQRiwUjZ9FkU9o00zoACTsT7PTTh_jWAV5qMsaGe0G8MaxxeSZpqujzGtKe3A=s180-rw",
-    "appName": "Call Recorder - SKVALEX (Trial)",
-    "homepage": "https://play.google.com/store/apps/details?id=org.skvalex.cr",
-    "packageName": "org.skvalex.cr",
+    "appIconSrc": "https://lh3.googleusercontent.com/ic1XYdZ9rZuYjVE3s3eSzM4Z_nUzMFAn2doQZ0C2_t7DqBKpA7PGqykFzeb9kTTrNy3u=s180-rw",
+    "appName": "VPN : Shuttle VPN, Free VPN, Unlimited Turbo VPN",
+    "homepage": "https://play.google.com/store/apps/details?id=com.shuttlevpn.free.proxy.gaming",
+    "packageName": "com.shuttlevpn.free.proxy.gaming",
     "isPlayStoreAvailable": true
   },
   {
@@ -550,6 +550,13 @@
     "appName": "Malwarebytes Security: Virus Cleaner, Anti-Malware",
     "homepage": "https://play.google.com/store/apps/details?id=org.malwarebytes.antimalware",
     "packageName": "org.malwarebytes.antimalware",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/K0vSHFQRiwUjZ9FkU9o00zoACTsT7PTTh_jWAV5qMsaGe0G8MaxxeSZpqujzGtKe3A=s180-rw",
+    "appName": "Call Recorder - SKVALEX (Trial)",
+    "homepage": "https://play.google.com/store/apps/details?id=org.skvalex.cr",
+    "packageName": "org.skvalex.cr",
     "isPlayStoreAvailable": true
   },
   {
