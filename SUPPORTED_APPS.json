@@ -385,6 +385,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://lh3.googleusercontent.com/K0vSHFQRiwUjZ9FkU9o00zoACTsT7PTTh_jWAV5qMsaGe0G8MaxxeSZpqujzGtKe3A=s180-rw",
+    "appName": "Call Recorder - SKVALEX (Trial)",
+    "homepage": "https://play.google.com/store/apps/details?id=org.skvalex.cr",
+    "packageName": "org.skvalex.cr",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://image.winudf.com/v2/user/admin/YWRtaW5fc25hcHR1YmVpY29uLnBuZ18xNTgyNDcyOTgyMTA2/icon.png?w=170&fakeurl=1",
     "appName": "Snaptube - YouTube Downloader and MP3 Converter",
     "homepage": "https://apkpure.com/snaptube/com.snaptube.premium",
