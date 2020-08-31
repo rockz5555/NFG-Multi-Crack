@@ -427,6 +427,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://lh3.googleusercontent.com/Fr5nbeum_kvL8bpN3MZIXPmgxbjFjjOQry-MbPR4JFa2tNpQC7qa4tKbSfwianrHts4=s180-rw",
+    "appName": "Translate All, Text & Voice Translator - Tranit",
+    "homepage": "https://play.google.com/store/apps/details?id=com.tranit.text.translate",
+    "packageName": "com.tranit.text.translate",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/bG17NtlMqjaGYjLb31IH1Y-nnHKzEa6DgqOXs3Wq4tj52XcsZEFE2-o2pHV8Qp7e9-0=s180-rw",
     "appName": "Nova Launcher",
     "homepage": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
