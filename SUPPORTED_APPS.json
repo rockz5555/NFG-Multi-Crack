@@ -21,6 +21,13 @@
     "isPlayStoreAvailable": false
   },
   {
+    "appIconSrc": "https://lh3.googleusercontent.com/3ZIeMM3dwbWF779zF8ZXnb-yr71DIGsxhsZzrrIOofhTfpd00xEwuITAB6k1sRGDrSk=s180-rw",
+    "appName": "Adobe Acrobat Reader: PDF Viewer, Editor & Creator",
+    "homepage": "https://play.google.com/store/apps/details?id=com.adobe.reader",
+    "packageName": "com.adobe.reader",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/0WtsR4_NKcbftR5KvnlQ9YYpkBsfglEKhsvBbe-PSOgWkuDWIw2DIUnkmbuWy7DYFQ=s180-rw",
     "appName": "AIDE- IDE for Android Java C++",
     "homepage": "https://play.google.com/store/apps/details?id=com.aide.ui",
