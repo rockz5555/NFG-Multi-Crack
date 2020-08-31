@@ -378,6 +378,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://lh3.googleusercontent.com/6e0V1111F5ld1a4aMhNtxJfwuOyB7k9LOULSAcdqqg1U1IZmUlJ6N3PaSZt4SZvy3Q=s180-rw",
+    "appName": "CCleaner: Cache Cleaner, Phone Booster, Optimizer",
+    "homepage": "https://play.google.com/store/apps/details?id=com.piriform.ccleaner",
+    "packageName": "com.piriform.ccleaner",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://play-lh.googleusercontent.com/Rj-xXVWUsnq3TPxIxiUnsQ9SPW2REg2VI60bopvTPGzc67nQiVkvT5lpdfi_lkWNCw=s180-rw",
     "appName": "Tapatalk - 200,000+ Forums",
     "homepage": "https://play.google.com/store/apps/details?id=com.quoord.tapatalkpro.activity",
