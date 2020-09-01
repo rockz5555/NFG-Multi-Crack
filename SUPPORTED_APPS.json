@@ -392,6 +392,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://lh3.googleusercontent.com/ov3Nw5PTc62vu3J2aGmyhS3ol7pyHm0UVEmS8HlKCXYh6wIYdS9j08cjR24MCQny7-U=s180-rw",
+    "appName": "Parallel Space Pro -- App Cloner",
+    "homepage": "https://play.google.com/store/apps/details?id=com.parallel.space.pro",
+    "packageName": "com.parallel.space.pro",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/lH8Sb8ih0YqVs-86ndmmLMJfxit5p54UnerpA-Ga91v9WT6zwAc10rC5VMhjO0fkZw=s180-rw",
     "appName": "CnX Player - Powerful 4K UHD Player - Cast to TV",
     "homepage": "https://play.google.com/store/apps/details?id=com.pathwin.cnxplayer",
