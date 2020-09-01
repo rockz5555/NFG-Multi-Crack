@@ -406,6 +406,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://lh3.googleusercontent.com/OK01ikjh9kliyhrxUrx6sfA3MlasdE1uV65BrdfsoSEFs0HwPuWd479qoOh-36n3tw=s180-rw",
+    "appName": "PicsArt Photo Editor: Pic, Video & Collage Maker",
+    "homepage": "https://play.google.com/store/apps/details?id=com.picsart.studio",
+    "packageName": "com.picsart.studio",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/6e0V1111F5ld1a4aMhNtxJfwuOyB7k9LOULSAcdqqg1U1IZmUlJ6N3PaSZt4SZvy3Q=s180-rw",
     "appName": "CCleaner: Cache Cleaner, Phone Booster, Optimizer",
     "homepage": "https://play.google.com/store/apps/details?id=com.piriform.ccleaner",
