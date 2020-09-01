@@ -112,6 +112,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://lh3.googleusercontent.com/WQqb62wAATnxR8jGsECCUVluKUc9-5pKaX9IfTZywsG_815L0OHOtxgzFeK5ylD-Obts=s180-rw",
+    "appName": "Spendee - Budget and Expense Tracker & Planner",
+    "homepage": "https://play.google.com/store/apps/details?id=com.cleevio.spendee",
+    "packageName": "com.cleevio.spendee",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://img.utdstc.com/icons/root-toolcase-android.png",
     "appName": "Root ToolCase",
     "homepage": "https://roottoolcase.cpu82.com/",
