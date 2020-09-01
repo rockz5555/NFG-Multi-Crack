@@ -154,6 +154,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://play-lh.googleusercontent.com/1VgKIh9Ifze3pC7RnAwbBkPfOnXBIdyfHpdks7ChdR-sF6XS16M6VJwvYHijz_dL9g=s180-rw",
+    "appName": "Symbolab - Math solver",
+    "homepage": "https://play.google.com/store/apps/details?id=com.devsense.symbolab",
+    "packageName": "com.devsense.symbolab",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://play-lh.googleusercontent.com/DqAKT8mJJWAQMzPuNTFL1CyhwVJkCEfQlv8CGlh7tNLPe81h92T-SwWG6UQLXydpEBNz=s180-rw",
     "appName": "Wallet - Money, Budget, Finance & Expense Tracker",
     "homepage": "https://play.google.com/store/apps/details?id=com.droid4you.application.wallet",
@@ -390,6 +397,13 @@
     "homepage": "https://play.google.com/store/apps/details?id=com.quoord.tapatalkpro.activity",
     "packageName": "com.quoord.tapatalkpro.activity",
     "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://img.utdstc.com/icons/videoder-android.png",
+    "appName": "Videoder Video Downloader",
+    "homepage": "https://www.videoder.com/youtube-downloader-for-android",
+    "packageName": "com.rahul.videoderbeta",
+    "isPlayStoreAvailable": false
   },
   {
     "appIconSrc": "https://lh3.googleusercontent.com/SnSjdJ1QIvTnTRIFIVahONxi6vbDfK0cCpc7PdMORjlJMbxmuNLicJPsnclxA_4rrPGt=s180-rw",
