@@ -490,6 +490,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://lh3.googleusercontent.com/bG17NtlMqjaGYjLb31IH1Y-nnHKzEa6DgqOXs3Wq4tj52XcsZEFE2-o2pHV8Qp7e9-0=s180-rw",
+    "appName": "Nova Launcher",
+    "homepage": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+    "packageName": "com.teslacoilsw.launcher",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/Fr5nbeum_kvL8bpN3MZIXPmgxbjFjjOQry-MbPR4JFa2tNpQC7qa4tKbSfwianrHts4=s180-rw",
     "appName": "Translate All, Text & Voice Translator - Tranit",
     "homepage": "https://play.google.com/store/apps/details?id=com.tranit.text.translate",
@@ -497,10 +504,10 @@
     "isPlayStoreAvailable": true
   },
   {
-    "appIconSrc": "https://lh3.googleusercontent.com/bG17NtlMqjaGYjLb31IH1Y-nnHKzEa6DgqOXs3Wq4tj52XcsZEFE2-o2pHV8Qp7e9-0=s180-rw",
-    "appName": "Nova Launcher",
-    "homepage": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
-    "packageName": "com.teslacoilsw.launcher",
+    "appIconSrc": "https://lh3.googleusercontent.com/64ap3L-g_bp4j3Abt3fsY_N1K8J6zbhUIlYfeUNgIrV9JSRwU5D7VJ-PUjST-rd84g=s180-rw",
+    "appName": "Truecaller: Caller ID, spam blocking & call record",
+    "homepage": "https://play.google.com/store/apps/details?id=com.truecaller",
+    "packageName": "com.truecaller",
     "isPlayStoreAvailable": true
   },
   {
