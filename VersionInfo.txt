@@ -1,4 +1,4 @@
 {
-  "version_code": 130,
-  "content": "<p>New version has been released ✌</p><p><b>Latest Version:</b> 1.3.0</p><p></p><p>***** Changelog *****</p><p><i><b>New Features</b></i></p><li>Ability to turn on/off ads</i><p><i><b>Improvements & Others:</b></i></p><li>Hook engine improvements</li><li>Performance improvements</li><li>Various bug fixing</li>"
+  "version_code": 131,
+  "content": "<p>New version has been released ✌</p><p><b>Latest Version:</b> 1.3.1</p><p></p><p>***** Changelog *****</p><p><i><b>Improvements & Others:</b></i></p><li>Hook engine improvements</li><li>Performance improvements</li><li>Various bug fixing</li>"
 }
