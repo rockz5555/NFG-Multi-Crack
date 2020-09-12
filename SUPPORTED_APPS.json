@@ -217,6 +217,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://play-lh.googleusercontent.com/dkRmvNZVKK3NJLiD3XcCst3ALA-fiTjfFCbkghWS5kFBbqC8D7X7sWb_QDjJEeUWIGI=s180-rw",
+    "appName": "EveryCircuit",
+    "homepage": "https://play.google.com/store/apps/details?id=com.everycircuit.free",
+    "packageName": "com.everycircuit.free",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/gfU2tXp7IEdB9A06y-VKIARF-UrREIROMQJxpivCdFqnQ2l5AzUvEdgwmk_L8zwz4_U=s180-rw",
     "appName": "HTTP Injector - (SSH/Proxy/VPN)",
     "homepage": "https://play.google.com/store/apps/details?id=com.evozi.injector",
