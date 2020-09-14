@@ -259,6 +259,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://lh3.googleusercontent.com/FWHOs52Nk7BJi_FhwJFhuZpijl9L_A2GxwE7y62hhOeHNZUP5z2jrWgHp4tdKf8w06U=s180-rw",
+    "appName": "JioSaavn Music & Radio – JioTunes, Podcasts, Songs",
+    "homepage": "https://play.google.com/store/apps/details?id=com.jio.media.jiobeats",
+    "packageName": "com.jio.media.jiobeats",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/JBniTFbcK30XtyHgjMzZGYPcxPAL2czN20hnMTPndD5gBdBSuvkLk4ybWIFyerT2SSE=s180-rw",
     "appName": "X Messenger Ball",
     "homepage": "https://play.google.com/store/apps/details?id=com.john.xmessengerball",
