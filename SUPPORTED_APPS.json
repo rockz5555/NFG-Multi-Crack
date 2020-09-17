@@ -322,6 +322,13 @@
     "isPlayStoreAvailable": false
   },
   {
+    "appIconSrc": "https://lh3.googleusercontent.com/PZMWnpFtmhKbVl1fm6HJS3Mru4O9_RTtz5LK1dGlFe2cLMJ4QWun1mfQO5GAJWEl8w=s180-rw",
+    "appName": "Facetune2 - Selfie Editor, Beauty & Makeover App",
+    "homepage": "https://play.google.com/store/apps/details?id=com.lightricks.facetune.free",
+    "packageName": "com.lightricks.facetune.free",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/kkd0TsVGQ0SFAM7T-SWQoQAhtZXFJlK1LRJBN6qisUeSQHnCBlWmP2ZhgOtPRGZ75hQ=s180-rw",
     "appName": "X-plore File Manager",
     "homepage": "https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore",
