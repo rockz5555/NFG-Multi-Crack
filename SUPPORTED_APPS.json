@@ -385,6 +385,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://lh3.googleusercontent.com/FxaypYLf6xFkpdEtHY7Fmr4_QE7-H6QWIjbb1ajnSy5njPTDBf-oA-L-4OCrLq6CFA=s180-rw",
+    "appName": "Bluer for Facebook and Messenger",
+    "homepage": "https://play.google.com/store/apps/details?id=com.nemorystudios.android.bluer.facebook",
+    "packageName": "com.nemorystudios.android.bluer.facebook",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/egACrFgE54jBPjyw1XmC5c43ILWdDekB0Gt14EbmQy0-98E_VqBAgLzrb9UZWoBl-g=s180-rw",
     "appName": "Vault - Hide Pics & Videos, App Lock, Free Backup",
     "homepage": "https://play.google.com/store/apps/details?id=com.netqin.ps",
