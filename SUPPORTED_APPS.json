@@ -126,6 +126,13 @@
     "isPlayStoreAvailable": false
   },
   {
+    "appIconSrc": "https://lh3.googleusercontent.com/S6J41_vZWVbI5hUKbnRej2IjSSTNwkw9WTbg5D1Mf_ztY7OWjGMiBwJCVKO6s4P0RzY=s180-rw",
+    "appName": "CricHeroes - World's Number 1 Cricket Scoring App",
+    "homepage": "https://play.google.com/store/apps/details?id=com.cricheroes.cricheroes.alpha",
+    "packageName": "com.cricheroes.cricheroes.alpha",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/V3kXSN12ylKFPwlMJakM8iFU_iwAMIwATdHYox0G3U2rK2wmRB00GldPt6vb4vwX2Xg=s180-rw",
     "appName": "ActionDirector Video Editor - Edit Videos Fast",
     "homepage": "https://play.google.com/store/apps/details?id=com.cyberlink.actiondirector",
