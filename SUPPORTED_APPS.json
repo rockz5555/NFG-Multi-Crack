@@ -462,6 +462,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://lh3.googleusercontent.com/PGraic0VzUDg2w6tH9xKrZv52sxN4jP62pyG6FK3NynOZNcVwnl0PZpdUG-Rr-7zYA=s180-rw",
+    "appName": "Network Signal Guru",
+    "homepage": "https://play.google.com/store/apps/details?id=com.qtrun.QuickTest",
+    "packageName": "com.qtrun.QuickTest",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://play-lh.googleusercontent.com/Rj-xXVWUsnq3TPxIxiUnsQ9SPW2REg2VI60bopvTPGzc67nQiVkvT5lpdfi_lkWNCw=s180-rw",
     "appName": "Tapatalk - 200,000+ Forums",
     "homepage": "https://play.google.com/store/apps/details?id=com.quoord.tapatalkpro.activity",
