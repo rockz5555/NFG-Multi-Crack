@@ -238,13 +238,6 @@
     "isPlayStoreAvailable": true
   },
   {
-    "appIconSrc": "https://lh3.googleusercontent.com/9vtEyxpt8cKPfPZJVqdV-Xmxh3wwFH_VVImoWsZvQWjBZeOI5JNfta2r4rELpV9-SQ4=s180-rw",
-    "appName": "FDE.AI [root]",
-    "homepage": "https://play.google.com/store/apps/details?id=com.feravolt.fdeai",
-    "packageName": "com.feravolt.fdeai",
-    "isPlayStoreAvailable": true
-  },
-  {
     "appIconSrc": "https://lh3.googleusercontent.com/pI3LR0ZqEETHoBK0TcG9F3DfQfw9L9JvBbe7BQoc_K4vR-2_mTuOQbD-Qa3vEM7RxnQ=s180-rw",
     "appName": "HttpCanary — HTTP Sniffer/Capture/Analysis",
     "homepage": "https://play.google.com/store/apps/details?id=com.guoshi.httpcanary",
@@ -712,6 +705,13 @@
     "homepage": "https://www.apkshub.com/app/software.solarwarez.xmiui",
     "packageName": "software.solarwarez.xmiui",
     "isPlayStoreAvailable": false
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/6zHZz89APHX-X_pMLqrQ2jvjztSnxxItP6EyinBIwYCKhyryikInFSVq3gBRcy3Cip3l=s180-rw",
+    "appName": "Andronix - Linux on Android without root",
+    "homepage": "https://play.google.com/store/apps/details?id=studio.com.techriz.andronix",
+    "packageName": "studio.com.techriz.andronix",
+    "isPlayStoreAvailable": true
   },
   {
     "appIconSrc": "https://lh3.googleusercontent.com/ve2bib6KeXuPUhuUsN8k1XMNauXtvJ3IwhWxPsnLWwRc_9f1BVgrTkn3AusXBNiAFr0=s180-rw",
