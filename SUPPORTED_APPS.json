@@ -49,6 +49,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://lh3.googleusercontent.com/e3DLxyvDeRItUhYHDArCjVQseaJzo0zitIAKj3Nix7zdLYreBHwU2v-xBoJABQ5gVEwo=s180-rw",
+    "appName": "VPNhub Best Free Unlimited VPN - Secure WiFi Proxy",
+    "homepage": "https://play.google.com/store/apps/details?id=com.appatomic.vpnhub",
+    "packageName": "com.appatomic.vpnhub",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/68LArgPpNESP4WPIGFJ5Ci3T-NzccOBJGId-rYYd5MgIygFxEzcVkf9Bmb6xlO6ZP-Q=s180-rw",
     "appName": "Material Icon Maker",
     "homepage": "https://play.google.com/store/apps/details?id=com.arunsoft.icon",
@@ -557,6 +564,13 @@
     "appName": "Autosync - Universal cloud sync and backup",
     "homepage": "https://play.google.com/store/apps/details?id=com.ttxapps.autosync",
     "packageName": "com.ttxapps.autosync",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/4aO-h5d4hVetmhoz_josHG6doyS4t6KKt1jQU5l97tLtB-Ond6cO3HJBER7tUB9t-MZ1=s180-rw",
+    "appName": "TunnelBear: Virtual Private Network & Security",
+    "homepage": "https://play.google.com/store/apps/details?id=com.tunnelbear.android",
+    "packageName": "com.tunnelbear.android",
     "isPlayStoreAvailable": true
   },
   {
