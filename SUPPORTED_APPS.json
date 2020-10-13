@@ -224,6 +224,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://lh3.googleusercontent.com/St4MFsQQ5X_gW0vbtrgQygauImRrh0V6D8YNrkO0vzfdtyLlp7kxXoDdYg5Byd3BNA=s180-rw",
+    "appName": "2ndLine - Second Phone Number",
+    "homepage": "https://play.google.com/store/apps/details?id=com.enflick.android.tn2ndLine",
+    "packageName": "com.enflick.android.tn2ndLine",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/QJObxznpklAxDNp0OVe3kAP5ZfUouIvRDO0kPj-V3MRjoRYKwj9RVTxOwG9yrlY-bgG3=s180-rw",
     "appName": "Evernote - Notes Organizer & Daily Planner",
     "homepage": "https://play.google.com/store/apps/details?id=com.evernote",
@@ -434,6 +441,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://lh3.googleusercontent.com/PWUsRLZ8fawBOdTjMrSWwa6-EBpzOguNIlvqxepMRFmBD8eTq8UPGj2241I2qFF1Eg=s180-rw",
+    "appName": "Dcoder, Compiler IDE :Code & Programming on mobile",
+    "homepage": "https://play.google.com/store/apps/details?id=com.paprbit.dcoder",
+    "packageName": "com.paprbit.dcoder",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/lH8Sb8ih0YqVs-86ndmmLMJfxit5p54UnerpA-Ga91v9WT6zwAc10rC5VMhjO0fkZw=s180-rw",
     "appName": "CnX Player - Powerful 4K UHD Player - Cast to TV",
     "homepage": "https://play.google.com/store/apps/details?id=com.pathwin.cnxplayer",
@@ -564,13 +578,6 @@
     "appName": "Autosync - Universal cloud sync and backup",
     "homepage": "https://play.google.com/store/apps/details?id=com.ttxapps.autosync",
     "packageName": "com.ttxapps.autosync",
-    "isPlayStoreAvailable": true
-  },
-  {
-    "appIconSrc": "https://lh3.googleusercontent.com/4aO-h5d4hVetmhoz_josHG6doyS4t6KKt1jQU5l97tLtB-Ond6cO3HJBER7tUB9t-MZ1=s180-rw",
-    "appName": "TunnelBear: Virtual Private Network & Security",
-    "homepage": "https://play.google.com/store/apps/details?id=com.tunnelbear.android",
-    "packageName": "com.tunnelbear.android",
     "isPlayStoreAvailable": true
   },
   {
