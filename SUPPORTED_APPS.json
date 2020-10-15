@@ -560,6 +560,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://lh3.googleusercontent.com/45cKPTrgMjiUX96Od7cSpkPq-U3hxuHZHarnfbSVJmUvsGzbTM2w01fsEMAvAkq6th93=s180-rw",
+    "appName": "Gallery Vault - Hide Pictures And Videos",
+    "homepage": "https://play.google.com/store/apps/details?id=com.thinkyeah.galleryvault",
+    "packageName": "com.thinkyeah.galleryvault",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/Fr5nbeum_kvL8bpN3MZIXPmgxbjFjjOQry-MbPR4JFa2tNpQC7qa4tKbSfwianrHts4=s180-rw",
     "appName": "Translate All, Text & Voice Translator - Tranit",
     "homepage": "https://play.google.com/store/apps/details?id=com.tranit.text.translate",
