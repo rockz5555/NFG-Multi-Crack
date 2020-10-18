@@ -189,6 +189,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://lh3.googleusercontent.com/Sp6UYHAAOVGGAyp-BOLZcVrqRoGTcj2178aJcv3sm2UkFdja-rm-stkzdYIT1eT9lg=s180-rw",
+    "appName": "Accu​Battery",
+    "homepage": "https://play.google.com/store/apps/details?id=com.digibites.accubattery",
+    "packageName": "com.digibites.accubattery",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://play-lh.googleusercontent.com/DqAKT8mJJWAQMzPuNTFL1CyhwVJkCEfQlv8CGlh7tNLPe81h92T-SwWG6UQLXydpEBNz=s180-rw",
     "appName": "Wallet - Money, Budget, Finance & Expense Tracker",
     "homepage": "https://play.google.com/store/apps/details?id=com.droid4you.application.wallet",
