@@ -35,20 +35,6 @@
     "isPlayStoreAvailable": true
   },
   {
-    "appIconSrc": "https://lh3.googleusercontent.com/0WtsR4_NKcbftR5KvnlQ9YYpkBsfglEKhsvBbe-PSOgWkuDWIw2DIUnkmbuWy7DYFQ=s180-rw",
-    "appName": "AIDE- IDE for Android Java C++",
-    "homepage": "https://play.google.com/store/apps/details?id=com.aide.ui",
-    "packageName": "com.aide.ui",
-    "isPlayStoreAvailable": true
-  },
-  {
-    "appIconSrc": "https://lh3.googleusercontent.com/qnbLXlszRE615jbHgddyxPR2T42EixXA4ixzryVjJERxwhuC-ovkDJgd_4NQ3wQqqum3=s180-rw",
-    "appName": "AIDE Web - Html,Css,JavaScript",
-    "homepage": "https://play.google.com/store/apps/details?id=com.aide.web",
-    "packageName": "com.aide.web",
-    "isPlayStoreAvailable": true
-  },
-  {
     "appIconSrc": "https://lh3.googleusercontent.com/e3DLxyvDeRItUhYHDArCjVQseaJzo0zitIAKj3Nix7zdLYreBHwU2v-xBoJABQ5gVEwo=s180-rw",
     "appName": "VPNhub Best Free Unlimited VPN - Secure WiFi Proxy",
     "homepage": "https://play.google.com/store/apps/details?id=com.appatomic.vpnhub",
@@ -140,13 +126,6 @@
     "isPlayStoreAvailable": true
   },
   {
-    "appIconSrc": "https://lh3.googleusercontent.com/V3kXSN12ylKFPwlMJakM8iFU_iwAMIwATdHYox0G3U2rK2wmRB00GldPt6vb4vwX2Xg=s180-rw",
-    "appName": "ActionDirector Video Editor - Edit Videos Fast",
-    "homepage": "https://play.google.com/store/apps/details?id=com.cyberlink.actiondirector",
-    "packageName": "com.cyberlink.actiondirector",
-    "isPlayStoreAvailable": true
-  },
-  {
     "appIconSrc": "https://lh3.googleusercontent.com/v1ihVfiMDyXoU8IhlB9mqtqN7_3EEnjw3n0dcB9v9e56XAY9zuhNWkfP5zmk9zGUO-M=s180-rw",
     "appName": "OS Monitor: Tasks Monitor",
     "homepage": "https://play.google.com/store/apps/details?id=com.ddm.activity",
@@ -200,13 +179,6 @@
     "appName": "Wallet - Money, Budget, Finance & Expense Tracker",
     "homepage": "https://play.google.com/store/apps/details?id=com.droid4you.application.wallet",
     "packageName": "com.droid4you.application.wallet",
-    "isPlayStoreAvailable": true
-  },
-  {
-    "appIconSrc": "https://lh3.googleusercontent.com/rcCCnwppWG3TNCXxMCUbk4pviTHHirziyfvZPPPvZONxTN1-2nOVMRO921_uK4KTf6ze=s180-rw",
-    "appName": "Dr.Web Security Space",
-    "homepage": "https://play.google.com/store/apps/details?id=com.drweb.pro",
-    "packageName": "com.drweb.pro",
     "isPlayStoreAvailable": true
   },
   {
@@ -697,13 +669,6 @@
     "appName": "Hola VPN Proxy Plus",
     "homepage": "https://play.google.com/store/apps/details?id=org.hola.prem",
     "packageName": "org.hola.prem",
-    "isPlayStoreAvailable": true
-  },
-  {
-    "appIconSrc": "https://lh3.googleusercontent.com/vsobopywqjUrYNUGlLwP-3jwdGGQEVZjYW9mGnsIpv2PF0DQHXp9IksG7AJe8t38_Yo=s180-rw",
-    "appName": "Aqua Mail- Email app for Any Email",
-    "homepage": "https://play.google.com/store/apps/details?id=org.kman.AquaMail",
-    "packageName": "org.kman.AquaMail",
     "isPlayStoreAvailable": true
   },
   {
