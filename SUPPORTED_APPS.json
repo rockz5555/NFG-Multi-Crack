@@ -203,6 +203,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://img.utdstc.com/icons/es-file-explorer-android.png:150",
+    "appName": "ES File Explorer",
+    "homepage": "https://es-file-explorer.en.uptodown.com/android",
+    "packageName": "com.estrongs.android.pop",
+    "isPlayStoreAvailable": false
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/QJObxznpklAxDNp0OVe3kAP5ZfUouIvRDO0kPj-V3MRjoRYKwj9RVTxOwG9yrlY-bgG3=s180-rw",
     "appName": "Evernote - Notes Organizer & Daily Planner",
     "homepage": "https://play.google.com/store/apps/details?id=com.evernote",
