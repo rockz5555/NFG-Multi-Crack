@@ -623,6 +623,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://lh3.googleusercontent.com/G7AkY7FY1XZQU8Xp_h5OGGovDxySJ2tLSlPxNRfl9E3lKDzyqY-2QYByz3CHovWRcg=s180-rw",
+    "appName": "Turbo VPN- Free VPN Proxy Server & Secure Service",
+    "homepage": "https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.turbovpn",
+    "packageName": "free.vpn.unblock.proxy.turbovpn",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/Fztt-ScG9kINmSNKwdFhn1HgBbCqTXHZsW0LwS4JiatLQIZ7PNNwCJq3GEGqbrPqDg=s180-rw",
     "appName": "Hotspot Shield Free VPN Proxy & Secure VPN",
     "homepage": "https://play.google.com/store/apps/details?id=hotspotshield.android.vpn",
@@ -641,6 +648,13 @@
     "appName": "Associative Swipe (Home button)",
     "homepage": "https://play.google.com/store/apps/details?id=io.github.neomsoft.associativeswipe",
     "packageName": "io.github.neomsoft.associativeswipe",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://lh3.googleusercontent.com/1CJXprPn0cbALZDFzWxb4qxxt6I6JUUpxkTbnvcgQbOfoIAYsiyJuy5jfANYWXLmsrCq=s180-rw",
+    "appName": "VPN Client Pro",
+    "homepage": "https://play.google.com/store/apps/details?id=it.colucciweb.vpnclientpro",
+    "packageName": "it.colucciweb.vpnclientpro",
     "isPlayStoreAvailable": true
   },
   {
