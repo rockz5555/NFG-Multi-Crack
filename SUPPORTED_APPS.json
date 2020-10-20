@@ -245,6 +245,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://lh3.googleusercontent.com/nCB498hBglRwIDUn_UwSLXcdLv1S-q69mbwd5vBnU-S77y5VLvb1_xIJfeLeGYGiDQfq=s180-rw",
+    "appName": "Polaris Office - Free Docs, Sheets, Slides + PDF",
+    "homepage": "https://play.google.com/store/apps/details?id=com.infraware.office.link",
+    "packageName": "com.infraware.office.link",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/eWYNxjXiub6-HqtwoS2d4bl-NkqcKgOHansSnXXqje8-K9XLRwflOgEYwSzPMicdAA=s180-rw",
     "appName": "CamScanner - Scanner to scan PDF",
     "homepage": "https://play.google.com/store/apps/details?id=com.intsig.camscanner",
