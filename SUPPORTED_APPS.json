@@ -574,6 +574,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://lh3.googleusercontent.com/YuU5xeZhfjY8kfsxvXSabAxZ2-Quutlj8QByfDiefsOPrygokAPF9jSU74dV6d2-3g=s180-rw",
+    "appName": "µTorrent®- Torrent Downloader",
+    "homepage": "https://play.google.com/store/apps/details?id=com.utorrent.client",
+    "packageName": "com.utorrent.client",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://img.apksum.com/4a/com.vmos.lit/1.0.02/icon.png",
     "appName": "VMOS Pro",
     "homepage": "https://www.vmos.com",
