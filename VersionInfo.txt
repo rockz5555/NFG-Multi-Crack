@@ -1,4 +1,4 @@
 {
-  "version_code": 136,
-  "content": "<p>New version has been released ✌</p><p><b>Latest Version:</b> 1.3.6</p><p></p><p>***** Changelog *****</p><p><i><b>N/A</b></i></p>"
+  "version_code": 137,
+  "content": "<p>New version has been released ✌</p><p><b>Latest Version:</b> 1.3.7</p><p></p><p>***** Changelog *****</p><p><i><b>N/A</b></i></p>"
 }
