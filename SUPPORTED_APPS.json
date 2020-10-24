@@ -518,13 +518,6 @@
     "isPlayStoreAvailable": true
   },
   {
-    "appIconSrc": "https://lh3.googleusercontent.com/7zR3sBylCNj_N6LYfi0EfJOBsMbEqA2Z22yKHSiaOd8DzoHt7eUGG-Hmp4hrodXyjSM=s180-rw",
-    "appName": "Sync.ME - Caller ID, Spam Call Blocker & Contacts",
-    "homepage": "https://play.google.com/store/apps/details?id=com.syncme.syncmeapp",
-    "packageName": "com.syncme.syncmeapp",
-    "isPlayStoreAvailable": true
-  },
-  {
     "appIconSrc": "https://lh3.googleusercontent.com/Mhq_eExy2fEIhfJAINXwLvbHppNO6atEZVzS5jGoTXx5dYZsW1UEWtSO8x4aebOPC-U=s180-rw",
     "appName": "Control Center IOS 13 - Control Center",
     "homepage": "https://play.google.com/store/apps/details?id=com.assistivetouch.controlcenter",
@@ -564,13 +557,6 @@
     "appName": "Truecaller: Caller ID, spam blocking & call record",
     "homepage": "https://play.google.com/store/apps/details?id=com.truecaller",
     "packageName": "com.truecaller",
-    "isPlayStoreAvailable": true
-  },
-  {
-    "appIconSrc": "https://lh3.googleusercontent.com/y52_-x0o7vFyg0LDT8RTOC6p3c6cZeeO7NpoGhsTcbWQag1hxGHAH9c7oo8NP0RjBxg=s180-rw",
-    "appName": "Autosync - Universal cloud sync and backup",
-    "homepage": "https://play.google.com/store/apps/details?id=com.ttxapps.autosync",
-    "packageName": "com.ttxapps.autosync",
     "isPlayStoreAvailable": true
   },
   {
