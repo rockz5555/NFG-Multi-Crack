@@ -483,13 +483,6 @@
     "isPlayStoreAvailable": false
   },
   {
-    "appIconSrc": "https://lh3.googleusercontent.com/SnSjdJ1QIvTnTRIFIVahONxi6vbDfK0cCpc7PdMORjlJMbxmuNLicJPsnclxA_4rrPGt=s180-rw",
-    "appName": "Translate On Screen",
-    "homepage": "https://play.google.com/store/apps/details?id=com.recognize_text.translate.screen",
-    "packageName": "com.recognize_text.translate.screen",
-    "isPlayStoreAvailable": true
-  },
-  {
     "appIconSrc": "https://lh3.googleusercontent.com/ZNJRTw4J0vOyEJPGe2-mdJaXC3o9wcf4M7wvkcytJ9IUZh514z4oDPn2Znw845CTnOE=s180-rw",
     "appName": "QuickEdit Text Editor Pro - Writer & Code Editor",
     "homepage": "https://play.google.com/store/apps/details?id=com.rhmsoft.edit.pro",
@@ -585,13 +578,6 @@
     "appName": "AFWall+ (Android Firewall +)",
     "homepage": "https://play.google.com/store/apps/details?id=dev.ukanth.ufirewall",
     "packageName": "dev.ukanth.ufirewall",
-    "isPlayStoreAvailable": true
-  },
-  {
-    "appIconSrc": "https://lh3.googleusercontent.com/Nr83vk6CB56ib2VFyuCROwWIhiKpJBozTTWXzVm7dQi6YziCkiM8ZOqo57TJv0oFOhna=s180-rw",
-    "appName": "XPrivacyLua Pro",
-    "homepage": "https://play.google.com/store/apps/details?id=eu.faircode.xlua.pro",
-    "packageName": "eu.faircode.xlua.pro",
     "isPlayStoreAvailable": true
   },
   {
