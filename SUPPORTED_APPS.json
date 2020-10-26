@@ -504,6 +504,13 @@
     "isPlayStoreAvailable": false
   },
   {
+    "appIconSrc": "https://play-lh.googleusercontent.com/8HJdKfUfC9T0F7q1PhVNS7n2OUtD0W8b5CD7icmrDRh4j7PzFy3_ROxqShZjfAt2NWOD=s180-rw",
+    "appName": "JuiceSSH - SSH Client",
+    "homepage": "https://play.google.com/store/apps/details?id=com.sonelli.juicessh",
+    "packageName": "com.sonelli.juicessh",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/-ilzcKEaaCLVX6p46B49YrOVHFDMHuZAofb3n6BYvD2VYwWon6r08-IsO65V-xQ3Or4=s180-rw",
     "appName": "Norton Mobile Security - Antivirus & Anti-Malware",
     "homepage": "https://play.google.com/store/apps/details?id=com.symantec.mobilesecurity",
