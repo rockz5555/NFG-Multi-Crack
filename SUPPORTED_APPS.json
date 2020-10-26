@@ -560,6 +560,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://play-lh.googleusercontent.com/DQqBoPY0YQNqM5K8ZrQEZb3UWhV4YGs52HsFLuPrQhXquUb0xvkYYJdwtGNhaDt2h8Y=s180-rw",
+    "appName": "VivaCut - Pro Video Editor",
+    "homepage": "https://play.google.com/store/apps/details?id=com.videoeditorpro.android",
+    "packageName": "com.videoeditorpro.android",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://img.apksum.com/4a/com.vmos.lit/1.0.02/icon.png",
     "appName": "VMOS Pro",
     "homepage": "https://www.vmos.com",
