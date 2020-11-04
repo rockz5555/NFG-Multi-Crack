@@ -462,6 +462,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://play-lh.googleusercontent.com/I1rEarjkcHM2Yq13tYxJtg8idaYLK6kGXI0AMSm5VLMl5_nPwVuR4UFhAOSZo83CBe8=s180-rw",
+    "appName": "Pushbullet - SMS on PC and more",
+    "homepage": "https://play.google.com/store/apps/details?id=com.pushbullet.android",
+    "packageName": "com.pushbullet.android",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/PGraic0VzUDg2w6tH9xKrZv52sxN4jP62pyG6FK3NynOZNcVwnl0PZpdUG-Rr-7zYA=s180-rw",
     "appName": "Network Signal Guru",
     "homepage": "https://play.google.com/store/apps/details?id=com.qtrun.QuickTest",
@@ -592,6 +599,13 @@
     "appName": "Navigation Gestures - Swipe Gesture Controls!",
     "homepage": "https://play.google.com/store/apps/details?id=com.xda.nobar",
     "packageName": "com.xda.nobar",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://play-lh.googleusercontent.com/wI38p471XkigZQkINRMfhp8eGmCINlxA0KHlEkWHQ9pVa21seefc-SNraWYUc7ODUgMA=s180-rw",
+    "appName": "Narrator's Voice",
+    "homepage": "https://play.google.com/store/apps/details?id=br.com.escolhatecnologia.vozdonarrador",
+    "packageName": "br.com.escolhatecnologia.vozdonarrador",
     "isPlayStoreAvailable": true
   },
   {
