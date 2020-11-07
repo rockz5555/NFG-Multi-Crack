@@ -427,6 +427,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://play-lh.googleusercontent.com/lITUlmYlWvc7GrtOZkGyxBE-im_oI6bnOQEWX0MHYsGhgW14i2tDoSwNxf-5ed-c1A=s180-rw",
+    "appName": "Fing - Network Tools",
+    "homepage": "https://play.google.com/store/apps/details?id=com.overlook.android.fing",
+    "packageName": "com.overlook.android.fing",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/ov3Nw5PTc62vu3J2aGmyhS3ol7pyHm0UVEmS8HlKCXYh6wIYdS9j08cjR24MCQny7-U=s180-rw",
     "appName": "Parallel Space Pro -- App Cloner",
     "homepage": "https://play.google.com/store/apps/details?id=com.parallel.space.pro",
