@@ -28,6 +28,13 @@
     "isPlayStoreAvailable": false
   },
   {
+    "appIconSrc": "https://play-lh.googleusercontent.com/PcFt-0OYNIT3NQWwozJ4_9YcCXtsH1OmTJwKPqu4qDG7D3cC3SbXbxyMWZIHe4LmQg=s180-rw",
+    "appName": "Adobe Lightroom - Photo Editor & Pro Camera",
+    "homepage": "https://play.google.com/store/apps/details?id=com.adobe.lrmobile",
+    "packageName": "com.adobe.lrmobile",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/3ZIeMM3dwbWF779zF8ZXnb-yr71DIGsxhsZzrrIOofhTfpd00xEwuITAB6k1sRGDrSk=s180-rw",
     "appName": "Adobe Acrobat Reader: PDF Viewer, Editor & Creator",
     "homepage": "https://play.google.com/store/apps/details?id=com.adobe.reader",
