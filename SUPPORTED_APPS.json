@@ -28,6 +28,13 @@
     "isPlayStoreAvailable": false
   },
   {
+    "appIconSrc": "https://play-lh.googleusercontent.com/h0mZJMGk4y7T36paivtR83xHwLFg1JGrVfNlotGnKaNZEJzsqV_FuLxxf8ZP_LG99RdL=s180-rw",
+    "appName": "AdGuard VPN — Fast & secure, unlimited protection (Early Access)",
+    "homepage": "https://play.google.com/store/apps/details?id=com.adguard.vpn",
+    "packageName": "com.adguard.vpn",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://play-lh.googleusercontent.com/PcFt-0OYNIT3NQWwozJ4_9YcCXtsH1OmTJwKPqu4qDG7D3cC3SbXbxyMWZIHe4LmQg=s180-rw",
     "appName": "Adobe Lightroom - Photo Editor & Pro Camera",
     "homepage": "https://play.google.com/store/apps/details?id=com.adobe.lrmobile",
