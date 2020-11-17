@@ -189,6 +189,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://play-lh.googleusercontent.com/-n02IqUqiO_Kr2vQ0vhWEqCAzldxXAldM6fSaRuxfkTSyBN0VbH1i3Gjroy7agrmro8D=s180-rw",
+    "appName": "SQLite Editor Master",
+    "homepage": "https://play.google.com/store/apps/details?id=com.dundastech.sqlitemasterlight",
+    "packageName": "com.dundastech.sqlitemasterlight",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/WH_sgfQ4AmeK0_dCLUrrDUEbJ0MSPGjpVHzArUGk7d1DRG7citAa3rOk1pZYaT2_jiY=s180-rw",
     "appName": "Java N-IDE - Android Builder - Java SE Compiler",
     "homepage": "https://play.google.com/store/apps/details?id=com.duy.compiler.javanide",
