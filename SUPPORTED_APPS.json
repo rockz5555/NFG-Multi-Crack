@@ -119,6 +119,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://play-lh.googleusercontent.com/39xbI_gFcmGEIl6JEAGhJQKv8GBjR_RFyJ6qhrFfA9CUOKZU2clSs7uo81e30zPGtg=s180-rw",
+    "appName": "1.1.1.1: Faster & Safer Internet",
+    "homepage": "https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone",
+    "packageName": "com.cloudflare.onedotonedotonedotone",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://img.utdstc.com/icons/root-toolcase-android.png",
     "appName": "Root ToolCase",
     "homepage": "https://roottoolcase.cpu82.com/",
