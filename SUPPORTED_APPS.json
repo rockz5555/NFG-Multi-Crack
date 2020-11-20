@@ -287,6 +287,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://play-lh.googleusercontent.com/mPC_o8nhXrXE22isxxVwNNuyiaKskjTRcbGKZEwqm6xlyXkfkfcBH1XDVpMJXWFG5w=s180-rw",
+    "appName": "Inoreader - News App & RSS",
+    "homepage": "https://play.google.com/store/apps/details?id=com.innologica.inoreader",
+    "packageName": "com.innologica.inoreader",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/eWYNxjXiub6-HqtwoS2d4bl-NkqcKgOHansSnXXqje8-K9XLRwflOgEYwSzPMicdAA=s180-rw",
     "appName": "CamScanner - Scanner to scan PDF",
     "homepage": "https://play.google.com/store/apps/details?id=com.intsig.camscanner",
