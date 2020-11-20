@@ -357,6 +357,13 @@
     "isPlayStoreAvailable": false
   },
   {
+    "appIconSrc": "https://play-lh.googleusercontent.com/2f_2HkoCGtyxmlAJf_elzlOzCogXpLsdNNZuCvv3mjkDXX81AlHVXItILvluQxTzams=s180-rw",
+    "appName": "Parallel Space - Multiple accounts & Two face",
+    "homepage": "https://play.google.com/store/apps/details?id=com.lbe.parallel.intl",
+    "packageName": "com.lbe.parallel.intl",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/PZMWnpFtmhKbVl1fm6HJS3Mru4O9_RTtz5LK1dGlFe2cLMJ4QWun1mfQO5GAJWEl8w=s180-rw",
     "appName": "Facetune2 - Selfie Editor, Beauty & Makeover App",
     "homepage": "https://play.google.com/store/apps/details?id=com.lightricks.facetune.free",
