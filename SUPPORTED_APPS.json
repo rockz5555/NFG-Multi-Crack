@@ -147,6 +147,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://play-lh.googleusercontent.com/CjzbMcLbmTswzCGauGQExkFsSHvwjKEeWLbVVJx0B-J9G6OQ-UCl2eOuGBfaIozFqow=s180-rw",
+    "appName": "Crunchyroll",
+    "homepage": "https://play.google.com/store/apps/details?id=com.crunchyroll.crunchyroid",
+    "packageName": "com.crunchyroll.crunchyroid",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/v1ihVfiMDyXoU8IhlB9mqtqN7_3EEnjw3n0dcB9v9e56XAY9zuhNWkfP5zmk9zGUO-M=s180-rw",
     "appName": "OS Monitor: Tasks Monitor",
     "homepage": "https://play.google.com/store/apps/details?id=com.ddm.activity",
