@@ -553,13 +553,6 @@
     "isPlayStoreAvailable": false
   },
   {
-    "appIconSrc": "https://lh3.googleusercontent.com/ZNJRTw4J0vOyEJPGe2-mdJaXC3o9wcf4M7wvkcytJ9IUZh514z4oDPn2Znw845CTnOE=s180-rw",
-    "appName": "QuickEdit Text Editor Pro - Writer & Code Editor",
-    "homepage": "https://play.google.com/store/apps/details?id=com.rhmsoft.edit.pro",
-    "packageName": "com.rhmsoft.edit.pro",
-    "isPlayStoreAvailable": true
-  },
-  {
     "appIconSrc": "https://lh3.googleusercontent.com/ic1XYdZ9rZuYjVE3s3eSzM4Z_nUzMFAn2doQZ0C2_t7DqBKpA7PGqykFzeb9kTTrNy3u=s180-rw",
     "appName": "VPN : Shuttle VPN, Free VPN, Unlimited Turbo VPN",
     "homepage": "https://play.google.com/store/apps/details?id=com.shuttlevpn.free.proxy.gaming",
@@ -690,13 +683,6 @@
     "appName": "Hotspot Shield Free VPN Proxy & Secure VPN",
     "homepage": "https://play.google.com/store/apps/details?id=hotspotshield.android.vpn",
     "packageName": "hotspotshield.android.vpn",
-    "isPlayStoreAvailable": true
-  },
-  {
-    "appIconSrc": "https://play-lh.googleusercontent.com/_CeHodp7UbckX3rmZKrdKXINt2DAszMRJEL3x33dPCJLzcRFlcYOvDu0qq9hDGE7PQ=s180-rw",
-    "appName": "IDM+: Music, Video, Torrent Downloader",
-    "homepage": "https://play.google.com/store/apps/details?id=idm.internet.download.manager.plus",
-    "packageName": "idm.internet.download.manager.plus",
     "isPlayStoreAvailable": true
   },
   {
