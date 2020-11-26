@@ -420,13 +420,6 @@
     "isPlayStoreAvailable": true
   },
   {
-    "appIconSrc": "https://lh3.googleusercontent.com/D17gZhrvhTyMc68MPtR8sRMs9BBzi6XOhnxGgQDVrWmXCThKo9yFxVWO7HR359_by80=s180-rw",
-    "appName": "MX Player Pro",
-    "homepage": "http://mx.j2inter.com/download",
-    "packageName": "com.mxtech.videoplayer.pro",
-    "isPlayStoreAvailable": false
-  },
-  {
     "appIconSrc": "https://lh3.googleusercontent.com/4o-0hXf9gPzXZO2e0KLM1xxCoSpqjIWbQw1tydaLxNIqJAgKTPAFYTlXXTnGlV9QjtE=s180-rw",
     "appName": "n7player Music Player",
     "homepage": "https://play.google.com/store/apps/details?id=com.n7mobile.nplayer",
