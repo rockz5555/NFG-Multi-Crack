@@ -63,6 +63,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://play-lh.googleusercontent.com/yMY3eYNHfkTWDWL5iZwtPJ31iZou61SVTHis6MAroNzzcd2B4z7Arq5vZUA4lTUOQgWP=s180-rw",
+    "appName": "AVG AntiVirus - Free Mobile Security",
+    "homepage": "https://play.google.com/store/apps/details?id=com.antivirus",
+    "packageName": "com.antivirus",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/e3DLxyvDeRItUhYHDArCjVQseaJzo0zitIAKj3Nix7zdLYreBHwU2v-xBoJABQ5gVEwo=s180-rw",
     "appName": "VPNhub Best Free Unlimited VPN - Secure WiFi Proxy",
     "homepage": "https://play.google.com/store/apps/details?id=com.appatomic.vpnhub",
