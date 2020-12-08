@@ -252,6 +252,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://play-lh.googleusercontent.com/ebkhDYLZnAI2mFqToyTKLXAEgt58bTekhTNXgAXWhsBPoTtktUfrXFj3unY-bsGq908=s180-rw",
+    "appName": "ESET Mobile Security & Antivirus",
+    "homepage": "https://play.google.com/store/apps/details?id=com.eset.ems2.gp",
+    "packageName": "com.eset.ems2.gp",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://img.utdstc.com/icons/es-file-explorer-android.png:150",
     "appName": "ES File Explorer",
     "homepage": "https://es-file-explorer.en.uptodown.com/android",
