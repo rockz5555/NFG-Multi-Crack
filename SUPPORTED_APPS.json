@@ -70,6 +70,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://play-lh.googleusercontent.com/zgOLUXCHkF91H8xuMTMLT17smwgLPwSBjUlKVWF-cZRFjlv-Uvtman7DiHEii54fbEE=s180-rw",
+    "appName": "Any.do: To do list, Reminders, Planner & Calendar",
+    "homepage": "https://play.google.com/store/apps/details?id=com.anydo",
+    "packageName": "com.anydo",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/e3DLxyvDeRItUhYHDArCjVQseaJzo0zitIAKj3Nix7zdLYreBHwU2v-xBoJABQ5gVEwo=s180-rw",
     "appName": "VPNhub Best Free Unlimited VPN - Secure WiFi Proxy",
     "homepage": "https://play.google.com/store/apps/details?id=com.appatomic.vpnhub",
