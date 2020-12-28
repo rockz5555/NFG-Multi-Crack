@@ -189,6 +189,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://play-lh.googleusercontent.com/yUTo9giEyUhQOp6cVrmNIsdZXgfrJToMGmldxrPGUqAo5zIr_zofwSMr6L4gWeJ5f3bw=s180-rw",
+    "appName": "Ethwork: Netstat & Network Interfaces",
+    "homepage": "https://play.google.com/store/apps/details?id=com.ddm.ethwork",
+    "packageName": "com.ddm.ethwork",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/TRViimi-sFBezGpQXG4_G2Ksw2WExJxQ2J2u3XYVIXRC3M3x57Q3MgAj-FYW_c4BRak=s180-rw",
     "appName": "IP Tools: WiFi Analyzer",
     "homepage": "https://play.google.com/store/apps/details?id=com.ddm.iptools",
