@@ -322,6 +322,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://play-lh.googleusercontent.com/3YhjD23TzbRN-xgzigFIT3wNlI391jKwRPlvbnYQXQZFpn2dw6EoVe0Q6j_aQDItLkOC=s180-rw",
+    "appName": "Speed Indicator - Network Speed - Monitoring Meter",
+    "homepage": "https://play.google.com/store/apps/details?id=com.evozi.network",
+    "packageName": "com.evozi.network",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/pI3LR0ZqEETHoBK0TcG9F3DfQfw9L9JvBbe7BQoc_K4vR-2_mTuOQbD-Qa3vEM7RxnQ=s180-rw",
     "appName": "HttpCanary — HTTP Sniffer/Capture/Analysis",
     "homepage": "https://play.google.com/store/apps/details?id=com.guoshi.httpcanary",
