@@ -742,6 +742,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://play-lh.googleusercontent.com/n48rYVJvp36CRXX8px9LfyxcqQqHSkwc2-auRsoIWTcUfq2r7Yxh9s4iCOtL1VXzSo9g=s180-rw",
+    "appName": "Toolbox for Minecraft: PE",
+    "homepage": "https://play.google.com/store/apps/details?id=io.mrarm.mctoolbox",
+    "packageName": "io.mrarm.mctoolbox",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/1CJXprPn0cbALZDFzWxb4qxxt6I6JUUpxkTbnvcgQbOfoIAYsiyJuy5jfANYWXLmsrCq=s180-rw",
     "appName": "VPN Client Pro",
     "homepage": "https://play.google.com/store/apps/details?id=it.colucciweb.vpnclientpro",

@@ -1,1 +1,1 @@
-{"exclude":{"com.applisto.appcloner.premium":{"def":"j"},"com.aide.ui":{"def":"o"},"com.aide.web":{"def":"o"},"com.digibites.accubattery":{"def":"o","stub":true}}}
+{"exclude":{"com.applisto.appcloner.premium":{"def":"j"},"com.aide.ui":{"def":"o"},"com.aide.web":{"def":"o"},"com.digibites.accubattery":{"def":"o","stub":true},"com.mojang.minecraftpe":{"def":"j","stub":true}}}
