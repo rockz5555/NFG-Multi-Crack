@@ -553,6 +553,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://play-lh.googleusercontent.com/n6rn3713YcXohcRbX77HxFVrT7RUOsTamLVy6fSf8Y-s3uMLTq-ra37LlTtqdzQ0YX1Y=s180-rw",
+    "appName": "PdaNet+",
+    "homepage": "https://play.google.com/store/apps/details?id=com.pdanet",
+    "packageName": "com.pdanet",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/OK01ikjh9kliyhrxUrx6sfA3MlasdE1uV65BrdfsoSEFs0HwPuWd479qoOh-36n3tw=s180-rw",
     "appName": "PicsArt Photo Editor: Pic, Video & Collage Maker",
     "homepage": "https://play.google.com/store/apps/details?id=com.picsart.studio",
