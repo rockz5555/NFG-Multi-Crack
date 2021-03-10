@@ -448,6 +448,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://play-lh.googleusercontent.com/MrYF2bh1BuqkzlWeWVKmrMZKfo0AyvVtO-OwaeB4cPFPtZBcJ3e5ibYPB19Ew5NR6ian=s180-rw",
+    "appName": "Lumosity: Brain Training",
+    "homepage": "https://play.google.com/store/apps/details?id=com.lumoslabs.lumosity",
+    "packageName": "com.lumoslabs.lumosity",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/9JTqRjwwKknxlno58dyUULI2MTPNIPXypJzVDiBRmIkQ4JeenMUd3pjJAMSo9PKey_4=s180-rw",
     "appName": "SuperBeam | WiFi Direct Share",
     "homepage": "https://play.google.com/store/apps/details?id=com.majedev.superbeam",
