@@ -679,6 +679,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://play-lh.googleusercontent.com/YSlqf3WBgIuNjwOoABhCM6ehJFJ0p5aTe5TAc3gq80SMBdg-8mqwcOUwFgFu4uVU2gQ=s180-rw",
+    "appName": "TickTick: ToDo List Planner, Reminder & Calendar",
+    "homepage": "https://play.google.com/store/apps/details?id=com.ticktick.task",
+    "packageName": "com.ticktick.task",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/Fr5nbeum_kvL8bpN3MZIXPmgxbjFjjOQry-MbPR4JFa2tNpQC7qa4tKbSfwianrHts4=s180-rw",
     "appName": "Translate All, Text & Voice Translator - Tranit",
     "homepage": "https://play.google.com/store/apps/details?id=com.tranit.text.translate",
