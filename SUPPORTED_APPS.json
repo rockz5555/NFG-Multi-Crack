@@ -756,6 +756,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://dlandroid.com/wp-content/uploads/2020/02/Thanox-Pro-3.jpg",
+    "appName": "Thanox",
+    "homepage": "https://github.com/Tornaco/Thanox/releases",
+    "packageName": "github.tornaco.android.thanos",
+    "isPlayStoreAvailable": false
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/Fztt-ScG9kINmSNKwdFhn1HgBbCqTXHZsW0LwS4JiatLQIZ7PNNwCJq3GEGqbrPqDg=s180-rw",
     "appName": "Hotspot Shield Free VPN Proxy & Secure VPN",
     "homepage": "https://play.google.com/store/apps/details?id=hotspotshield.android.vpn",
