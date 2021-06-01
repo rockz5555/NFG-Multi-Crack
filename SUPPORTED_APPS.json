@@ -791,13 +791,6 @@
     "isPlayStoreAvailable": true
   },
   {
-    "appIconSrc": "https://lh3.googleusercontent.com/Z32CI1HB_7uGRIyKhKGd6rt9jLBzRxFasowSEzUt0kGJJeFUYeKChxti4x8USm4xAg=s180-rw",
-    "appName": "Tasker",
-    "homepage": "https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm",
-    "packageName": "net.dinglisch.android.taskerm",
-    "isPlayStoreAvailable": true
-  },
-  {
     "appIconSrc": "https://play-lh.googleusercontent.com/kI4F--1dthvZtKJdIzk4t-TD02sCxrYg9WSjKBbslW0oTNWFd3_EZ8Ivxa0dMHKapw72=s180-rw",
     "appName": "EasyJoin - A decentralized communication system",
     "homepage": "https://play.google.com/store/apps/details?id=net.easyjoin.pro",
