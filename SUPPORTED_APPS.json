@@ -637,6 +637,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://play-lh.googleusercontent.com/w4LcaxVDk2Im8RCl3vzSJ6KcKEb3S5bz4i1o7J0cdJKX4kIR9_HG6-XMrvLyshmjItue=s180-rw",
+    "appName": "bVPN",
+    "homepage": "https://play.google.com/store/apps/details?id=com.steelkiwi.bvpn",
+    "packageName": "com.steelkiwi.bvpn",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/-ilzcKEaaCLVX6p46B49YrOVHFDMHuZAofb3n6BYvD2VYwWon6r08-IsO65V-xQ3Or4=s180-rw",
     "appName": "Norton Mobile Security - Antivirus & Anti-Malware",
     "homepage": "https://play.google.com/store/apps/details?id=com.symantec.mobilesecurity",
