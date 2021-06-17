@@ -875,10 +875,24 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://play-lh.googleusercontent.com/5hhjIfBJFvx521Jtle8ncWATSZYvBqBgMMfgRFvlwNawKFEoJDB-IiKa0D-tuIAqYg=s180-rw",
+    "appName": "UFO VPN Basic: Free VPN Proxy Master & Secure WiFi",
+    "homepage": "https://play.google.com/store/apps/details?id=ufovpn.free.unblock.proxy.vpn",
+    "packageName": "ufovpn.free.unblock.proxy.vpn",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/ve2bib6KeXuPUhuUsN8k1XMNauXtvJ3IwhWxPsnLWwRc_9f1BVgrTkn3AusXBNiAFr0=s180-rw",
     "appName": "Web Tools: FTP, SSH, HTTP",
     "homepage": "https://play.google.com/store/apps/details?id=webtools.ddm.com.webtools",
     "packageName": "webtools.ddm.com.webtools",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://play-lh.googleusercontent.com/WltCl6v-Dq5rVt_vUW3ooVRCMOSNrRUUHf8M8HUrBjnIEtlJ9bKesfgtgko0d-NNpg=s180-rw",
+    "appName": "UFO VPN - Fast Proxy Unlimited & Super VPN Master",
+    "homepage": "https://play.google.com/store/apps/details?id=wifisecurity.ufovpn.android",
+    "packageName": "wifisecurity.ufovpn.android",
     "isPlayStoreAvailable": true
   }
 ]
