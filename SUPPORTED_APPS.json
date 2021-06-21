@@ -644,6 +644,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://gltools.app/static/img/icon.svg",
+    "appName": "GL Tools",
+    "homepage": "https://gltools.app",
+    "packageName": "com.superpaninbros.glng",
+    "isPlayStoreAvailable": false
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/-ilzcKEaaCLVX6p46B49YrOVHFDMHuZAofb3n6BYvD2VYwWon6r08-IsO65V-xQ3Or4=s180-rw",
     "appName": "Norton Mobile Security - Antivirus & Anti-Malware",
     "homepage": "https://play.google.com/store/apps/details?id=com.symantec.mobilesecurity",
