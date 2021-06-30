@@ -462,13 +462,6 @@
     "isPlayStoreAvailable": true
   },
   {
-    "appIconSrc": "https://lh3.googleusercontent.com/V_9TcMqdzjUGYyM69Zodh5XFFVDOkc4gN4to3Ws94AJXMso51e1PTKlyX31RJxMIKQ=s180-rw",
-    "appName": "[XPOSED] Bluetooth ToolKit",
-    "homepage": "https://play.google.com/store/apps/details?id=com.metris.xposed.bluetoothToolkitFree",
-    "packageName": "com.metris.xposed.bluetoothToolkitFree",
-    "isPlayStoreAvailable": true
-  },
-  {
     "appIconSrc": "https://lh3.googleusercontent.com/D6XDCje7pB0nNP1sOZkwD-tXkV0_As3ni21us5yZ71_sy0FTWv1s_MQBe1JUnHlgE94=s180-rw",
     "appName": "Microsoft Office: Word, Excel, PowerPoint & More",
     "homepage": "https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow",
