@@ -2,4 +2,4 @@
 
 Under construction ;)
 
-Visit: https://nizwerfreegallery.blogspot.com/
+Visit: https://nizwerfreegallery.blogspot.com/ (no longer maintained)
