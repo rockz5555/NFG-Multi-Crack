@@ -1,6 +1,6 @@
 # NFG-Multi-Crack
 
-Under construction ;)
+Under construction (always will be) ;)
 
 Visit: https://nizwerfreegallery.blogspot.com/ (no longer maintained)
 
