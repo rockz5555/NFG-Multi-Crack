@@ -1,12 +1,8 @@
 {
-  "latestVersion": "1.4.2",
-  "latestVersionCode": 142,
+  "latestVersion": "1.4.3",
+  "latestVersionCode": 143,
   "url": "https://github.com/rockz5555/NFG-Multi-Crack/releases",
   "releaseNotes": [
-    "* Android 11+ support (root required)",
-    "* Added support to hook system apps",
-    "* Hook engine improvements",
-    "* Various bug fixes and lots of under the hood improvements",
-    "* Misc"
+    "* Write your private hooks besides NFG hooks"
   ]
 }
