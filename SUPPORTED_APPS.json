@@ -112,6 +112,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://play-lh.googleusercontent.com/SA8z2_NYB3WSU_w9B_Lt4qF7IIVCMgT7exreAmrn19hHZAjpKAKi3QJmp1cGo8Bp9Q=s180-rw",
+    "appName": "Bagan - Myanmar Keyboard",
+    "homepage": "https://play.google.com/store/apps/details?id=com.bit.androsmart.kbinapp",
+    "packageName": "com.bit.androsmart.kbinapp",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/iJ4nhjiExeaowbVd8-rXfVafEa3HUykm_UGlAPc18H9wB5J9r4FiJDcmWBdnH3OCuw0d=s180-rw",
     "appName": "Bitdefender Mobile Security & Antivirus",
     "homepage": "https://play.google.com/store/apps/details?id=com.bitdefender.security",
