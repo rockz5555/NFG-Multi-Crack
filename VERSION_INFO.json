@@ -1,8 +1,10 @@
 {
-  "latestVersion": "1.4.3",
-  "latestVersionCode": 143,
+  "latestVersion": "1.4.4",
+  "latestVersionCode": 144,
   "url": "https://github.com/rockz5555/NFG-Multi-Crack/releases",
   "releaseNotes": [
-    "* Write your private hooks besides NFG hooks"
+    "* Added support to create NFG hooks",
+    "* Minor bug fixes and improvements",
+    "* More for you to discover 😝"
   ]
 }
