@@ -770,7 +770,7 @@
     "isPlayStoreAvailable": true
   },
   {
-    "appIconSrc": "https://dlandroid.com/wp-content/uploads/2020/02/Thanox-Pro-3.jpg",
+    "appIconSrc": "https://raw.githubusercontent.com/Tornaco/Thanox/master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
     "appName": "Thanox",
     "homepage": "https://github.com/Tornaco/Thanox/releases",
     "packageName": "github.tornaco.android.thanos",
