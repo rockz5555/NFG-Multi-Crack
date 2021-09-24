@@ -84,6 +84,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://play-lh.googleusercontent.com/dmbgsqIliQgohOVI-uD5NrexgkEQJbI_4-JmDB5TC6YbRdDnTiQd4APiZ5hIrw2SSga2=s180-rw",
+    "appName": "Apni Kaksha",
+    "homepage": "https://play.google.com/store/apps/details?id=com.apni.kaksha",
+    "packageName": "com.apni.kaksha",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/e3DLxyvDeRItUhYHDArCjVQseaJzo0zitIAKj3Nix7zdLYreBHwU2v-xBoJABQ5gVEwo=s180-rw",
     "appName": "VPNhub Best Free Unlimited VPN - Secure WiFi Proxy",
     "homepage": "https://play.google.com/store/apps/details?id=com.appatomic.vpnhub",
