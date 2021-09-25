@@ -602,6 +602,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://www.cloneapp.net/homepage/images/logo.png",
+    "appName": "Clone App",
+    "homepage": "https://www.cloneapp.net/homepage/mindex_en.html",
+    "packageName": "com.py.cloneapp.huawei",
+    "isPlayStoreAvailable": false
+  },
+  {
     "appIconSrc": "https://lh3.googleusercontent.com/PGraic0VzUDg2w6tH9xKrZv52sxN4jP62pyG6FK3NynOZNcVwnl0PZpdUG-Rr-7zYA=s180-rw",
     "appName": "Network Signal Guru",
     "homepage": "https://play.google.com/store/apps/details?id=com.qtrun.QuickTest",
