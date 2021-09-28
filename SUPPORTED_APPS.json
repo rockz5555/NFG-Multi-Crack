@@ -805,6 +805,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://play-lh.googleusercontent.com/IdP3GQEcURj6VFJrRQxhKDS9K60J9EQsok4U937Dwlai3IEJoAEj2F0VsJhnMZKWn70=s180-rw",
+    "appName": "MapGenie: Genshin Impact Map",
+    "homepage": "https://play.google.com/store/apps/details?id=io.mapgenie.genshinmap",
+    "packageName": "io.mapgenie.genshinmap",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://play-lh.googleusercontent.com/n48rYVJvp36CRXX8px9LfyxcqQqHSkwc2-auRsoIWTcUfq2r7Yxh9s4iCOtL1VXzSo9g=s180-rw",
     "appName": "Toolbox for Minecraft: PE",
     "homepage": "https://play.google.com/store/apps/details?id=io.mrarm.mctoolbox",
@@ -886,6 +893,13 @@
     "appName": "App Ops - Permission manager",
     "homepage": "https://play.google.com/store/apps/details?id=rikka.appops",
     "packageName": "rikka.appops",
+    "isPlayStoreAvailable": true
+  },
+  {
+    "appIconSrc": "https://play-lh.googleusercontent.com/XYF6_qja3eLZVWjg1KroQ9hDW2IblgFV0QIphhTDde8P8b3WekqGBGVYja_lDFQYjA=s180-rw",
+    "appName": "NoPopping - Auto Do Not Disturb mode",
+    "homepage": "https://play.google.com/store/apps/details?id=rikka.nopeeking",
+    "packageName": "rikka.nopeeking",
     "isPlayStoreAvailable": true
   },
   {
