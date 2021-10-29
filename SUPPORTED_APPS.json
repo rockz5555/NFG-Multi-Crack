@@ -847,6 +847,13 @@
     "isPlayStoreAvailable": true
   },
   {
+    "appIconSrc": "https://play-lh.googleusercontent.com/afSKhP_fsusuluzZK6aMijYCFCI8UduDS8xN2fNFxBX3E0q9J0e-T91BRmjQHIzWU2nI=s180-rw",
+    "appName": "BGN Launcher",
+    "homepage": "https://play.google.com/store/apps/details?id=mobi.bgn.launcher",
+    "packageName": "mobi.bgn.launcher",
+    "isPlayStoreAvailable": true
+  },
+  {
     "appIconSrc": "https://play-lh.googleusercontent.com/kI4F--1dthvZtKJdIzk4t-TD02sCxrYg9WSjKBbslW0oTNWFd3_EZ8Ivxa0dMHKapw72=s180-rw",
     "appName": "EasyJoin - A decentralized communication system",
     "homepage": "https://play.google.com/store/apps/details?id=net.easyjoin.pro",
