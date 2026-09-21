@@ -1,0 +1,158 @@
+AI HOOK CREATOR	AI Hook 创建器
+Describe your hook in plain English. The AI agent will auto-generate and inject it.	请用英文描述 Hook 需求，AI 助手将自动生成并注入。
+🛠️ WORKSPACE	🛠️ 工作区
+🧠 AI GENERATOR	🧠 AI 生成器
+Select Target Application	选择目标应用
+No app selected	未选择应用
+CHANGE	更换
+Workspace Manager	工作区管理
+Manage and load cached decompiled workspaces	管理并加载缓存的反编译工作区
+MANAGE	管理
+Select Decompiled Src Folder	选择反编译源码文件夹
+No folder selected (optional)	未选择文件夹（可选）
+CHOOSE	选择
+Decompiler & Code Explorer	反编译与代码浏览
+Browse source code or decompile on-the-fly	浏览源代码或即时反编译
+EXPLORE	浏览
+AI LLM ENGINE	AI 大模型引擎
+SETUP	设置
+PROVIDER:	服务商：
+Paste your API Key here...	在此粘贴 API 密钥…
+MODEL:	模型：
+Select model...	选择模型…
+SAVE SETTINGS	保存设置
+AI PROMPT INSTRUCTIONS	AI 提示词
+QUICK TEMPLATES:	快捷模板：
+Bypass Root Check	绕过 Root 检测
+Bypass SSL Pinning	绕过 SSL 证书固定
+Forge Signature	伪造签名
+Google Play Billing	Google Play 计费
+Trace Security Checks	跟踪安全检查
+Spoof GPS Location	伪装 GPS 位置
+ANALYZE & GENERATE HOOK	分析并生成 Hook
+AI ENGINE TERMINAL OUTPUT	AI 引擎终端输出
+GENERATED JSON CONFIGURATION	生成的 JSON 配置
+INJECT & SAVE	注入并保存
+COPY JSON	复制 JSON
+SHARE	分享
+⚡ QUICK ANALYSIS	⚡ 快速分析
+⇅ SORT	⇅ 排序
+DEVICE SPOOFING	设备伪装
+Spoof Build fingerprint & processor for the selected app	为所选应用伪装系统指纹和处理器信息
+SPOOFED APPS	已伪装的应用
+SPOOF CONFIGURATION	伪装配置
+DEVICE PROFILE:	设备配置：
+APPLY PROFILE	应用配置
+RANDOMIZE HARDWARE	随机硬件信息
+Tap  RANDOMIZE to generate spoof values	点击“随机硬件信息”生成伪装数据
+INJECT SPOOF HOOKS	注入设备伪装 Hook
+No apps configured. Tap ADD APP below.	尚未配置应用。请点击下方“添加应用”。
+ADD APP	添加应用
+HOW IT WORKS	使用说明
+1. Tap ADD APP to select target applications.\n\n2. For each app, add .so files (e.g. patched libpairipcore.so) from device storage.\n\n3. Tap the delay badge ⏱ next to any .so to set a custom injection delay (0-60s) for staggered loading.\n\n4. Changes auto-save. When a configured app launches, patched .so files are loaded with configured delays via dlopen deduplication.\n\n5. Apps must be restarted for changes to take effect.	1. 点击“添加应用”选择目标应用。\n\n2. 从设备存储中为各应用添加 .so 文件（例如修改后的 libpairipcore.so）。\n\n3. 点击 .so 文件旁的 ⏱ 标记，设置注入延迟（0–60 秒），以错开加载时间。\n\n4. 更改会自动保存。目标应用启动时，将按设定的延迟加载修改后的 .so 文件，并通过 dlopen 去重。\n\n5. 需要重启目标应用，更改才会生效。
+THE ULTIMATE ANDROID TOOLKIT	Android 综合工具箱
+Xposed Manager	Xposed 管理器
+More	更多
+System dashboard and bypass control panel	系统概览与绕过功能控制面板
+MODULE STATUS	模块状态
+ACTIVE	已启用
+BYPASS STACK	运行框架
+⚡ STATUS OVERRIDE	⚡ 状态覆盖
+> BILLING	> 计费模拟
+[ DISABLED ]	[ 已禁用 ]
+> STEALTH	> 隐身模式
+[ INACTIVE ]	[ 未启用 ]
+> LICENSE	> 许可证模拟
+SYSTEM DIAGNOSTICS HUD	系统诊断面板
+[ SCAN ]	[ 扫描 ]
+ONLINE	在线
+HOST_DEVICE	当前设备
+BYPASS_ENV	运行环境
+ZYGISK_ACTIVE	Zygisk 已启用
+ACTIVE_HOOKS	已启用 Hook
+5 / 120 TARGETS	5 / 120 个目标
+SELINUX_STATE	SELinux 状态
+ENFORCING	强制模式
+App Layout	应用布局
+⇅ Sort By	⇅ 排序方式
+TARGET APPLICATIONS	目标应用
+App Icon	应用图标
+App Name	应用名称
+PACKAGE NAME	应用包名
+VERSION	版本
+DATA PATH	数据路径
+SOURCE PATH	安装包路径
+INSTALL TIME	安装时间
+UPDATE TIME	更新时间
+APK SIGNATURE (SHA-256)	APK 签名（SHA-256）
+N/A	暂无
+SIGNER	签名者
+ISSUER	颁发者
+SERIAL NUMBER	序列号
+VALIDITY	有效期
+FINGERPRINT (SHA-1)	指纹（SHA-1）
+FINGERPRINT (MD5)	指纹（MD5）
+PROTECTOR(S)	加固工具
+CLOSE	关闭
+CONFIRM DELETE	确认删除
+Are you sure you want to remove this purchase record?	确定要删除这条购买记录吗？
+CANCEL	取消
+DELETE	删除
+Syncing Icon	同步图标
+CORE SYNC ACTIVE	正在同步核心数据
+DOWNLOADING HOOK ENGINE DATA	正在下载 Hook 引擎数据
+CONNECTING...	正在连接…
+SYSTEM CONSOLE STATUS	系统控制台状态
+[INFO] Initializing CDN download request...	[信息] 正在初始化 CDN 下载请求…
+Success Icon	成功图标
+ENGINE PAYLOADS	引擎数据
+SYNC STATE	同步状态
+ONLINE / CACHED	在线 / 已缓存
+APK Icon	APK 图标
+UPDATE APK FOUND	发现更新安装包
+PREVIOUS DOWNLOAD DETECTED	检测到已下载的文件
+An update APK already exists.\nInstall it now or download again?	已有更新安装包。\n立即安装，还是重新下载？
+INSTALL SYSTEM	安装更新
+DOWNLOAD AGAIN	重新下载
+APK ANALYSIS	APK 分析
+SCANNING PACKAGE STRUCTURE	正在扫描安装包结构
+INITIALIZING...	正在初始化…
+> initializing analysis engine...	> 正在初始化分析引擎…
+This is a special note content.	此处为特别说明。
+ROOT ACCESS DENIED	Root 权限被拒绝
+SU permission required	需要超级用户权限
+NFG Multi Crack needs superuser access to bypass hooks, manage permissions, and load native libraries.\n\nTap GRANT to request SU permission. If you previously denied it, check your root manager's deny list.	NFG Multi Crack 需要超级用户权限来运行绕过 Hook、管理权限并加载原生库。\n\n点击“授予权限”申请超级用户权限。如果此前拒绝过，请检查 Root 管理器的拒绝列表。
+Don't show again	不再显示
+GRANT ACCESS	授予权限
+EXIT APP	退出应用
+Update Icon	更新图标
+UPDATE AVAILABLE	发现新版本
+NEW CORE FRAMEWORK DETECTED	检测到新版核心框架
+CURRENT VERSION	当前版本
+LATEST VERSION	最新版本
+RELEASE NOTES	更新说明
+* Reading release notes...	* 正在读取更新说明…
+UPDATE SYSTEM	更新
+DISMISS	关闭
+Update Manager	更新管理
+UPDATE MANAGER	更新管理
+MANAGE DOWNLOADED VERSIONS	管理已下载的版本
+NO DOWNLOADS YET	暂无下载
+Downloaded APK versions\nwill appear here	下载的 APK 版本\n将显示在这里
+FROZEN	已冻结
+PRIVATE	私有
+SCOPED	已设作用域
+[ + EXTENDED DIAGNOSTICS ]	[ + 详细诊断 ]
+LAUNCH APP	启动应用
+FORCE TERMINATE	强行停止
+INSTALL	安装
+CLEAR	清除
+RECORDED PURCHASES	购买记录
+PACKAGE	包名
+PRODUCT ID	商品 ID
+MULTI CRACKER	多功能工具
+GRID SEARCH EMPTY	未找到应用
+No matching packages detected on this node.\nThe matrix returned 0 results.	未找到匹配的应用包。\n搜索结果为 0。
+Search models...	搜索模型…
+DISABLED	已禁用
+Delete Purchase	删除购买记录

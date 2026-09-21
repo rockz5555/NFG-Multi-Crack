@@ -1,0 +1,145 @@
+Short Toast	短时 Toast 提示
+Long Toast	长时 Toast 提示
+Get Argument(s) Values	获取参数值
+Get Object Field Value	获取对象字段值
+Set Object Field Value	设置对象字段值
+Get Static Object Field Value	获取静态对象字段值
+Set Static Object Field Value	设置静态对象字段值
+Get Boolean Field Value	获取布尔字段值
+Set Boolean Field Value	设置布尔字段值
+Get Static Boolean Field Value	获取静态布尔字段值
+Set Static Boolean Field Value	设置静态布尔字段值
+Get Return Value	获取返回值
+Set Return Value	设置返回值
+Break Method Execution (Use beforeHookedMethod)	中断方法执行（使用 beforeHookedMethod）
+Get SharedPreferences Sample	读取 SharedPreferences 示例
+Set SharedPreferences Sample	写入 SharedPreferences 示例
+Alert Dialog - Theme_DeviceDefault_Dialog	提示对话框 - Theme_DeviceDefault_Dialog
+Alert Dialog - Theme_Dialog	提示对话框 - Theme_Dialog
+Alert Dialog - Theme_Panel	提示对话框 - Theme_Panel
+Alert Dialog - Theme_Holo_Dialog	提示对话框 - Theme_Holo_Dialog
+Alert Dialog - Theme_Holo_Panel	提示对话框 - Theme_Holo_Panel
+Alert Dialog - Theme_Holo_Light_Dialog	提示对话框 - Theme_Holo_Light_Dialog
+Alert Dialog - Theme_Holo_Light_Panel	提示对话框 - Theme_Holo_Light_Panel
+Preference Name	偏好设置文件名
+HINT: app_prefs|custom_prefs|package.name_preferences etc...	提示：app_prefs|custom_prefs|package.name_preferences 等
+Method Name	方法名
+HINT: isPremium|hasPremium|isVip etc...	提示：isPremium|hasPremium|isVip 等
+If you have any particular preference file, use 'Preference Name' input without .xml extension. You can perform any SharedPreferences operations, such as, get/put string, get/put boolean, etc...	如需指定偏好设置文件，请在“偏好设置文件名”中输入不含 .xml 扩展名的文件名。可执行 SharedPreferences 操作，例如读写字符串、布尔值等。
+Milliseconds Delay	延迟（毫秒）
+HINT: Delaying hooking by milliseconds. Useful for packed APK's	提示：以毫秒为单位延迟 Hook，对加固 APK 尤其有用
+HINT: String|int|boolean|Integer etc...	提示：String|int|boolean|Integer 等
+Are you sure to clear all contents?	确定清空所有内容吗？
+Are you sure to delete the private hook file?	确定删除私有 Hook 文件吗？
+Not a valid date	日期无效
+NEVER SHOW	不再显示
+I'll never bother you again!	以后不再提示。
+Insert package name and cracked version	请输入包名和适配版本
+Look up a constructor and change the field value before the method invocation	查找构造函数，并在调用前修改字段值
+Look up a constructor and change the field value after the method invocation	查找构造函数，并在调用后修改字段值
+Look up a constructor and change the static field value before the method invocation. Note: Static field's class name should be provided	查找构造函数，并在调用前修改静态字段值。注意：必须提供静态字段所属类的名称
+Look up a constructor and change the static field value after the method invocation. Note: Static field's class name should be provided	查找构造函数，并在调用后修改静态字段值。注意：必须提供静态字段所属类的名称
+Look up a method and hook a field value before the method invocation	查找方法，并在调用前 Hook 字段值
+Look up a method and hook a field value after the method invocation	查找方法，并在调用后 Hook 字段值
+Look up a method and change the static field value before the method invocation. Note: Static field's class name should be provided	查找方法，并在调用前修改静态字段值。注意：必须提供静态字段所属类的名称
+Look up a method and change the static field value after the method invocation. Note: Static field's class name should be provided	查找方法，并在调用后修改静态字段值。注意：必须提供静态字段所属类的名称
+Look up a method and hook it	查找并 Hook 方法
+Look up a method and hook all methods (hookAllMethods) with a certain name that were declared in the specified class. Inherited methods and constructors are not considered	查找方法，并 Hook 指定类中声明的所有同名方法（hookAllMethods）。不包含继承的方法和构造函数
+Look up a method and hook it with an enum value. Enum class name is required	查找方法并将返回值替换为枚举值。必须提供枚举类名
+Look up a method and hook it with a date. Date string must be in milliseconds	查找方法并将返回值替换为日期。日期字符串必须以毫秒为单位
+Look up a method and hook it with a calendar. Calendar string must be in milliseconds	查找方法并将返回值替换为日历对象。时间字符串必须以毫秒为单位
+Look up a method and hook it with a JSON Object. Proper JSON string is required	查找方法并将返回值替换为 JSON 对象。必须提供有效的 JSON 字符串
+This will hook the JSONObject constructor based on a condition value. Proper JSON string is required	根据条件值 Hook JSONObject 构造函数。必须提供有效的 JSON 字符串
+Xposed Log	Xposed 日志
+Beanshell: Look up a constructor and hook before the method invocation	BeanShell：查找构造函数并在调用前 Hook
+Beanshell: Look up a constructor and hook after the method invocation	BeanShell：查找构造函数并在调用后 Hook
+Beanshell: Look up a method and hook before the method invocation	BeanShell：查找方法并在调用前 Hook
+Beanshell: Look up a method and hook after the method invocation	BeanShell：查找方法并在调用后 Hook
+Description will be added soon	说明即将补充
+Private hook file has been successfully deleted	私有 Hook 文件已删除
+Seems like your private hook file was not available	未找到可用的私有 Hook 文件
+Package Name	应用包名
+Set Package Installer (Optional)	设置安装来源（可选）
+App Logo	应用标志
+Normally 0 would do in most cases	多数情况下设为 0 即可
+Parameters (case-sensitive) - Boolean / boolean are two different things	参数（区分大小写）—— Boolean 与 boolean 是不同类型
+Static Class Name	静态类名
+Enum Class Name	枚举类名
+Condition Value	条件值
+Parameter Index	参数索引
+Field Name	字段名
+Key Name	键名
+Hook Value	Hook 值
+NOW TAP HERE TO CONTINUE	点击此处继续
+Set package installer. Eg: com.android.vending	设置安装来源。例如：com.android.vending
+HINT: Hook by Nijoo	提示：Hook by Nijoo
+Hook Type	Hook 类型
+Save	保存
+Delete	删除
+Clear	清除
+Remove	移除
+Add	添加
+Edit	编辑
+Close	关闭
+Search	搜索
+Download	下载
+Export	导出
+Import	导入
+Settings	设置
+Help	帮助
+Reset	重置
+Continue	继续
+Success	成功
+Error	错误
+Warning	警告
+Loading...	正在加载…
+Loading	正在加载
+Copied!	已复制！
+Copied	已复制
+Yes	是
+No	否
+Enabled	已启用
+Disabled	已禁用
+Before	调用前
+After	调用后
+Installer	安装来源
+HINT: com.package.name	提示：com.package.name
+HINT: 1.2.5	提示：1.2.5
+A D D	添加
+H O O K	个 Hook
+EDIT	编辑
+REMOVE	移除
+SAVE	保存
+RESET	重置
+Parameters	参数
+Data Type	数据类型
+Shared Preference Data Type	偏好设置数据类型
+Number	数字
+Date / Calendar	日期 / 日历
+Boolean (true)	布尔值（true）
+Boolean (false)	布尔值（false）
+KEYWORDS:	关键词：
+HINT: com.app.activity.VipActivity	提示：com.app.activity.VipActivity
+HINT: com.app.model.enums.PremiumStatus	提示：com.app.model.enums.PremiumStatus
+HINT: status|failure|not a pro etc...	提示：status|failure|not a pro 等
+HINT: -1|0|1|2 etc...	提示：-1|0|1|2 等
+HINT: premium|pro|vip etc...	提示：premium|pro|vip 等
+HINT: is_pro|is_vip|unlocked etc...	提示：is_pro|is_vip|unlocked 等
+HINT: BOOLEAN|STRING|INT|FLOAT|LONG	提示：BOOLEAN|STRING|INT|FLOAT|LONG
+HINT: yes|no|success etc...	提示：yes|no|success 等
+HINT: Any number...	提示：任意数字…
+Date will be converted to milliseconds	日期将转换为毫秒值
+HINT: com.app.activity.PremiumActivity	提示：com.app.activity.PremiumActivity
+Target Package Name is Empty	目标应用包名为空
+: The engine requires a valid package identifier to bind the hooks.	：引擎需要有效的包名来绑定 Hook。
+Suspicious Package Format	包名格式可能有误
+: Package name should generally be in reverse-DNS format (e.g. 'com.example.app').	：包名通常应采用反向域名格式（例如 com.example.app）。
+Target Version (Cracked For) Empty	目标适配版本为空
+: We recommend prefilling or entering the specific target app version.	：建议填写目标应用的具体版本。
+No Hook Tasks Configured	尚未配置 Hook 任务
+: Click 'Add Task to List' to construct your configuration.	：点击“添加到任务列表”创建配置。
+: Class	：类
+does not start with package name	未以此包名开头：
+. Ensure this is correct (e.g., if targeting system classes or external library classes).	。请确认是否正确（例如目标是系统类或外部库的类）。
+: The script content seems too short or empty.	：脚本内容过短或为空。
+✨ All configuration checks passed! Ready to export.	✨ 所有配置检查均已通过，可以导出。
